@@ -1,0 +1,27 @@
+---
+# General Metadata
+date: 2024-06-16~20
+layout: portfolio/items/slider-layout
+title: 2024 Canada-Korea Conference, KITECH-퀘벡주 MOU 체결식 및 한캐 산업기술 혁신포럼 개최를 통한 국제기술교류
+
+# Contributor Metadata
+contributor: "원홍인 수석연구원 외"
+
+# Categorization
+grouped_by: grid
+filters:
+  - "2024"
+  - "Workshop"
+
+# Visual Content
+thumbnail: "/assets/images/activities/2024/2024 Canada-Korea Conference.jpg"
+big_image: "/assets/images/activities/2024/2024 Canada-Korea Conference.jpg"
+
+link: "/"
+slider_images:
+  - "/assets/images/activities/2024/2024 Canada-Korea Conference.jpg"
+#   - "/assets/images/art/pp2-2.webp"
+#   - "/assets/images/art/pp2-3.webp"
+---
+## About the Activity
+2024 Canada-Korea Conference, KITECH-퀘벡주 MOU 체결식 및 한캐 산업기술 혁신포럼 개최를 통한 국제기술교류

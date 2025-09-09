@@ -1,0 +1,27 @@
+---
+# General Metadata
+date: 2024-10-17
+layout: portfolio/items/slider-layout
+title: Miracom Solution Fair  강연, "제조 생산기술 혁신을 위한 제조 AI 적용 사례"
+
+# Contributor Metadata
+contributor: "윤종필 수석연구원"
+
+# Categorization
+grouped_by: grid
+filters:
+  - "2024"
+  - "Seminar"
+
+# Visual Content
+thumbnail: "/assets/images/activities/2024/Miracom Solution Fair강연.jpg"
+big_image: "/assets/images/activities/2024/Miracom Solution Fair강연.jpg"
+
+link: "/"
+slider_images:
+  - "/assets/images/activities/2024/Miracom Solution Fair강연.jpg"
+#   - "/assets/images/art/pp2-2.webp"
+#   - "/assets/images/art/pp2-3.webp"
+---
+## About the Activity
+Miracom Solution Fair  강연, "제조 생산기술 혁신을 위한 제조 AI 적용 사례"

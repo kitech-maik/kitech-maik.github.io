@@ -1,0 +1,123 @@
+# General Settings
+title: "KITECH Manufacturing AI Research Center"
+email: "kms6777@kitech.re.kr"
+#email_2: "support@tortoizthemes.com"
+description: >- # this means to ignore newlines until "baseurl:"
+  The Manufacturing AI Research Center was newly established on January 1, 2024, as a direct organization under the Vice President of the Korea Institute of Industrial Technology. 
+  It aims to concentrate capabilities on developing an AI platform for the "AI-based innovation in manufacturing" initiative, promoting the rapid dissemination of the developed platform, and fostering in-house AI experts.
+favicon: "/assets/images/favicon.png"
+
+# Seo Meta Settings
+meta_og_image: "/assets/images/meta-image.webp"
+meta_twitter_image: "/assets/images/meta-image.webp"
+
+# Site Wide Theme Color Setting
+color_scheme:  #Aqua Blue Brown Cobalt Green Hibiscus Leaf Meander Orange Pink Purple Red Rose Sky Teal Violet Yellow
+
+# Site Wide Theme Font Setting
+font_scheme:  # Jost, Nunito , DM Sans + Zilla Slab , HK Grotesk, Abhaya, Libre
+
+# Sitewide Logo
+black_logo_1x: "/assets/images/maik_240.webp"
+black_logo_2x: "/assets/images/maik_240.webp"
+light_logo_1x: "/assets/images/maik_240.webp"
+light_logo_2x: "/assets/images/maik_240.webp"
+
+# Site Wide Address and Phone Number
+address_01: '156, Gaetbeol-ro, Yeonsu-gu, Incheon, Republic of Korea'
+phone_number: "+82 (032) 850 2925"
+
+# Site Wide Copyright
+copyright_text: "© 2025 MAIK. All rights reserved."
+
+# Site Wide Google Analytics
+google_analytics:
+  enable: true
+  key: "UA-664136761-1"  # UA-664136761-1
+
+# Site Wide Google Map  
+google_map: |
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25358.800630047783!2d126.6417663958546!3d37.39337761836638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b77aa2915e66f%3A0x98a16c375680dc4e!2z7ZWc6rWt7IOd7IKw6riw7Iig7Jew6rWs7JuQIOu_jOumrOyCsOyXheq4sOyIoOyXsOq1rOyGjA!5e0!3m2!1sko!2skr!4v1747111254756!5m2!1sko!2skr" style="width:100%; height: 100%; border:0" allowfullscreen=""></iframe>
+
+
+# Site Wide Social Accounts
+# social_accounts:
+#   title: "Follow Us"
+#   links:
+#     - url: "#"
+#       icon: "jam jam-twitter"
+
+#     - url: "#"
+#       icon: "jam jam-facebook"
+
+#     - url: "#"
+#       icon: "jam jam-instagram"
+
+#     - url: "#"
+#       icon: "jam jam-vimeo"
+      
+#     - url: "#"
+#       icon: "jam jam-youtube"
+
+# Site Wide External Links for footer
+external_links:
+  title: "Related Sites"
+  links:
+    - url: "#"
+      text: "KITECH Main"
+    - url: "#"
+      text: "Our Story"
+    - url: "#"
+      text: "Projects"
+
+# Site Wide External Links for footer
+external_links_02:
+  title: "Need Help?"
+  links:
+    - url: "#"
+      text: "Support"
+    - url: "#"
+      text: "Get Started"
+    - url: "#"
+      text: "Contact Us"
+    - url: "#"
+      text: "Terms of Use"
+    - url: "#"
+      text: "Privacy Policy"
+
+# Site Wide External Links for footer
+external_links_03:
+  title: "Company"
+  links:
+    - url: "#"
+      text: "Our Team"
+    - url: "#"
+      text: "Strategy"
+    - url: "#"
+      text: "Service"
+    - url: "#"
+      text: "Mission"
+    - url: "#"
+      text: "Process"
+
+# Footer Newsletter
+# footer_newsletter:
+#   title: "Our Newsletter"
+#   sub_title: "Subscribe to our newsletter to get our news & deals delivered to your inbox!"
+#   subscribe_button_text: "Join"
+
+# Author Page Background Image
+author_page_header:
+  header_background_image: "/assets/images/art/bg31.webp"
+
+# Gallery
+gallery:
+  images:
+  - img: "/assets/images/art/z1.svg"
+  - img: "/assets/images/art/z2.svg"
+  - img: "/assets/images/art/z3.svg"
+  - img: "/assets/images/art/z4.svg"
+  - img: "/assets/images/art/z5.svg"
+  - img: "/assets/images/art/z6.svg"
+  - img: "/assets/images/art/z7.svg"
+  - img: "/assets/images/art/z8.svg"

@@ -1,0 +1,43 @@
+---
+layout: default
+title: "Students"
+sub_title: "Students and Intern"
+background_image: "/assets/images/art/bg6.webp"
+
+teams_carousel_student:
+  enable: true
+  data_source: students
+  title: Meet The Team
+  sub_title: |
+    Students at KMAI
+
+teams_carousel_intern:
+  enable: true
+  data_source: interns
+  title: Meet The Team
+  sub_title: |
+    Interns at KMAI
+
+---
+{% include layouts/nav/nav-1.html drop_search=true alignment_class="ms-auto" %}
+{% include layouts/header/page-title.html %}
+
+{% include components/team/team-members.html 
+   data=site.data.team_carousel.students  
+   title=page.teams_carousel_student.title 
+   sub_title=page.teams_carousel_student.sub_title 
+%}
+
+
+<!-- /.wrapper -->
+{% include components/team/team-members.html 
+   data=site.data.team_carousel.interns  
+   title=page.teams_carousel_intern.title 
+   sub_title=page.teams_carousel_intern.sub_title 
+%}
+
+<!-- /.wrapper -->
+
+
+<!--/.footer Wrapper-->
+{% include layouts/footer/footer-3.html %}

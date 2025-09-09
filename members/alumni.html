@@ -1,0 +1,50 @@
+---
+layout: default
+title: "Alumni"
+background_image: "/assets/images/art/bg6.webp"
+---
+
+{% include layouts/nav/nav-1.html drop_search=true alignment_class="ms-auto" %}
+{% include layouts/header/page-title.html %}
+
+<!-- /.wrapper -->
+<div class="wrapper gray-wrapper">
+  <div class="container inner">
+
+    <div class="row">
+      <div class="col-md-8 offset-md-2">
+        <table class="table table-hover">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">이름</th>
+              <th scope="col">졸업</th>
+              <th scope="col">직위</th>
+              <th scope="col">직장</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% assign alumni_sorted = site.data.alumni | sort: "grad_year" | reverse %}
+            {% assign total = alumni_sorted | size %}
+            {% for member in alumni_sorted %}
+            <tr>
+              <th scope="row">{{ total | minus: forloop.index0 }}</th>
+              <td>{{ member.name }}</td>
+              <td>{{ member.grad_year }}</td>
+              <td>{{ member.position }}</td>
+              <td>{{ member.workplace | raw }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+
+  </div>
+  <!-- /.container -->
+</div>
+<!-- /.wrapper -->
+
+{% include layouts/footer/footer-3.html %}

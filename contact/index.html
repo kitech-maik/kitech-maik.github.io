@@ -1,0 +1,60 @@
+---
+layout: default
+title: "Contact Us"
+sub_title: "How can we help?"
+header_image: "/assets/images/art/bg31.webp"
+
+contact_form:
+  enable: true
+  title: "Get in Touch"
+  sub_title: |
+    질문이 있으신가요? <br> 문의 양식을 통해 연락해 주세요. 답변드리겠습니다.
+  action_email: "kms6777@kitech.re.kr"
+  
+  lists:
+    - title: Address
+      info_01: "156, Gaetbeol-ro, Yeonsu-gu, Incheon, Republic of Korea"
+      icon: "icofont-location-pin"
+
+    - title: E-mail
+      info_01: "kms6777@kitech.re.kr"
+      icon: "icofont-mail-box"
+
+
+  forms_data: 
+
+    - field_type: "input"
+      field_name: "first_name"
+      placeholder: "First Name" 
+      error_message: "First Name Is required" 
+
+    - field_type: "input"
+      field_name: "last_name"
+      placeholder: "Laast Name" 
+      error_message: "Last Name Is required"
+
+    - field_type: "input"
+      field_name: "user_email"
+      placeholder: "Email"
+      error_message: "Email Is required"
+
+    - field_type: "input"
+      field_name: "user_phone"
+      placeholder: "Phone Number"
+      error_message: "Phone Number Is required"
+
+    - field_type: "textarea"
+      field_name: "user_message"
+      placeholder: "Message"
+      error_message: "Message Is required"
+google_maps:
+    enable: true
+---
+
+{% include layouts/nav/nav-10.html default_logo="black" drop_search=true alignment_class="ms-auto" %} 
+{% include layouts/header/page-title3.html %} 
+{% include components/contact/contact-4.html %}
+{% include layouts/footer/footer-3.html %}
+
+
+

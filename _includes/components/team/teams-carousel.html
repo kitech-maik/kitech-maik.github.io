@@ -1,0 +1,17 @@
+  <div class="row text-center">
+    {% for member in include.data %}
+    <div class="col-md-4 mb-4">
+      <div class="box bg-white shadow p-4 h-100">
+        <figure class="mb-25" style="height: 400px; overflow: hidden;">
+          <img src="{{ member.image }}" style="height: 100%; width: auto;" alt="" />
+        </figure>
+        <h4 class="mb-15">{{ member.name }}</h4>
+        <div class="meta">{{ member.designation | markdownify | newline_to_br }}</div>          
+        <p>{{ member.description | markdownify | newline_to_br }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+
+

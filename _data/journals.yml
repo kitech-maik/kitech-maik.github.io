@@ -1,0 +1,204 @@
+international:
+  - year_range: "2024-2023"
+    entries:
+      - author: "Inje Jang, Gihyun Bae, Dohyeong Kim, Geunho Kim, Sanga Lee*"
+        title: "Prediction method of the deep drawing quality using Siamese deep neural network algorithm trained with time-dependent load curves"
+        information: "The International Journal of Advanced Manufacturing Technology, 135:5791-5807, 2024"
+
+      - author: "Keunoh Lim+, Kyungjae Lee+, Sanga Lee*, Kwanjung Yee*"
+        title: "Development of agent-based mesh generator for flow analysis using deep reinforcement learning"
+        information: "Engineering with Computers, 40:4043-4065, 2024 (+ equally contributed)"
+
+      - author: "Sanga Lee, Sunghyun Kim, Chankyu Son*"
+        title: "Airfoil inverse design using a deep neural net with an explainable attention mechanism"
+        information: "International Journal of Aeronautical and Space Sciences, 25:399–409, 2024"
+
+      - author: "Sang Heon Lee, Min Young Kim, Min Woo Woo, Han Chang Lee, Hong-In Won, Seung Hyun Jeong*"
+        title: "Predicting the Heading Angle of Resin During Extrusion Using Semantic Segmentation Based on Edge-Region Focal Loss"
+        information: "IEEE Transactions on Instrumentation and Measurement, 73:5024015, 2024"
+
+      - author: "Minseon Gwak+, Jong Pil Yun+, Ji Yun Lee, Sang-Sun Han, PooGyeon Park*, Chena Lee*"
+        title: "Attention‑guided jaw bone lesion diagnosis in panoramic radiography using minimal labeling effort"
+        information: "Scientific Reports, 14:4981, 2024 (+ equally contributed)"
+
+      - author: "Hyeyeon Choi, Jong Pil Yun, Bum Jun Kim, Hyeonah Jang, WooSang Shin, Sang Woo Kim*"
+        title: "Steel product number recognition framework using semantic mask-conditioned diffusion model with limited data"
+        information: "Journal of Industrial Information Integration, Vol.38, 100559, 2024"
+
+      - author: "Taehan Lee+, WooSang Shin+, Jong-Hyeon Lee, Sangmoon Lee, Han-Gyeol Yeom*, Jong Pil Yun*"
+        title: "Resolving the Non-uniformity in the Feature Space of Age Estimation: A Deep Learning Model Based on Feature Clusters of Panoramic Images"
+        information: "Computerized Medical Imaging and Graphics, 102329, 2024 (+ equally contributed)"
+
+      - author: "Iljeok Kim, Juwon Na, Jong Pil Yun*, Seungchul Lee*"
+        title: "Deep Feature Selection Framework for Quality Prediction in Injection Molding Process"
+        information: "IEEE Transactions on Industrial Informatics, Vol. 20(1), 503-512, 2024"
+
+      - author: "Sunwoong Yang, Sanga Lee, Kwanjung Yee*"
+        title: "Inverse design optimization framework via a two‑step deep learning approach: application to a wind turbine airfoil"
+        information: "Engineering with Computers, 39:2239–2255, 2023"
+
+      - author: "Han‑Gyeol Yeom, Byung‑Do Lee, Wan Lee, Taehan Lee*, Jong Pil Yun*"
+        title: "Estimating chronological age through learning local and global features of panoramic radiographs in the Korean population"
+        information: "Scientific Reports, 13:21857, 2023"
+
+      - author: "Minseon Gwak+, Min Su Kim+, Jong Pil Yun, PooGyeon Park*"
+        title: "Robust and explainable fault diagnosis with power-perturbation-based decision boundary analysis of deep learning models"
+        information: "IEEE Transactions on Industrial Informatics, Vol.19 (5), 6982-6992, 2023 (+ equally contributed)"
+
+      - author: "Hyeyeon Choi+, Jong Pil Yun+, Ari Lee, Sang‑Sun Han, Sang Woo Kim*, Chena Lee*"
+        title: "Deep learning synthesis of cone‑beam computed tomography from zero echo time magnetic resonance imaging"
+        information: "Scientific Reports, 123:6031, 2023 (+ equally contributed)"
+
+      - author: "Seung Hyun Jeong, Sang Heon Lee, Hong-In Won*"
+        title: "Development of microcatheter tube extrusion angle estimation system using convolutional neural network segmentation"
+        information: "Scientific Reports, 13:18468, 2023"
+
+      - author: "Ji-Wook Kim, Hong-In Won, Dong-Yong Park, In-Jae Kim, Jin-Woo Lee, Kyung-Duk Kim, Yoojeong Noh, Jin-Seok Jang*"
+        title: "Study on Stochastic and Autoregressive Time Series Forecasting for Hydrogen Refueling Station"
+        information: "IEEE Access, 2023"
+
+  - year_range: "2022-2021"
+    entries:
+      - author: "Min Su Kim, Jong Pil Yun, PooGyeon Park*"
+        title: "Deep Learning-based Explainable Fault Diagnosis Model with an Individually Grouped 1D Convolution for 3-axis Vibration Signals"
+        information: "IEEE Transactions on Industrial Informatics, Vol.18 (12), 8807-8817, 2022"
+
+      - author: "Hyeyeon Choi, Jong Pil Yun, Bum Jun Kim, Hyeonah Jang, Sang Woo Kim*"
+        title: "Attention-based Multimodal Image Feature Fusion Module for Transmission Line Detection"
+        information: "IEEE Transactions on Industrial Informatics, Vol.18 (11), 7686-7695, 2022"
+
+      - author: "Seung Hyun Jeong, Min Woo Woo, Dong Sun Shin, Han Gyeol Yeom, Hun Jun Lim, Bong Chul Kim*, Jong Pil Yun*"
+        title: "Three-dimensional postoperative results prediction for orthognathic surgery through deep learning-based alignment network"
+        information: "Journal of Personalized Medicine, Vol.12(6), 998, 2022"
+
+      - author: "Ji-Wook Kim, Dong-Yul Kim, Hong-In Won, Yoo-Jeong Noh, Dae-Cheol Ko, Jin-Seok Jang*"
+        title: "Approximation Model Development and Dynamic Characteristic Analysis Based on Spindle Position of Machining Center"
+        information: "Materials, Vol.15(20), 7158, 2022"
+
+      - author: "Se-Kyung Park, Jun-Kyu Park, Hong-In Won, Seung-Hwan Choi, Chang-Hyun Kim, Suwoong Lee*, Min Young Kim*"
+        title: "Three-Dimensional Foot Position Estimation Based on Footprint Shadow Image Processing and Deep Learning for Smart Trampoline Fitness System"
+        information: "Sensors (Basel), Vol.22(18), 6922, 2022"
+
+      - author: "Seung Hyun Jeong, Min Woo Woo, Gyogwon Koo, Jong-Hak Lee, Jong Pil Yun*"
+        title: "Automatic brittle fracture ratio estimation using convolutional neural network regression based on classmap regulation"
+        information: "IEEE Access, Vol.9, 136552-136560, 2021"
+
+      - author: "Hae Gwang Park, Jong Pil Yun, Min Young Kim, Seung Hyun Jeong*"
+        title: "Multi-channel Object Detection for Detecting Suspected Trees with Pine Wilt Disease Using Multispectral Drone Imagery"
+        information: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Vol.14, 8350-8358, 2021"
+
+      - author: "Byung Su Kim+, Han Gyeol Yeom+, Jong Hyun Lee, Woo Sang Shin, Jong Pil Yun, Seung Hyun Jeong, Jae Hyun Kang, See Woon Kim, Bong Chul Kim*"
+        title: "Deep learning-based prediction of paresthesia after third molar extraction: a preliminary study"
+        information: "Diagnostics, Vol.11, 1572, 2021 (+ equally contributed)"
+
+      - author: "Ari Lee+, Min Su Kim+, Sang-Sun Han, PooGyeon Park, Chena Lee*, Jong Pil Yun*"
+        title: "Deep learning neural networks to differentiate Stafne’s bone cavity from pathological radiolucent lesions of the mandible in heterogeneous panoramic radiography"
+        information: "PLoS ONE, Vol.16(7), e0254997, 2021 (+ equally contributed)"
+
+      - author: "Min Su Kim, Jong Pil Yun, PooGyeon Park*"
+        title: "An explainable neural network for Fault Diagnosis with a frequency activation map"
+        information: "IEEE Access, Vol.9, 98962-98972, 2021"
+
+      - author: "Young Jung, Taehan Lee, Jiyoon Oh, Byung-Geon Park, Jong Soo Ko, Hyeok Kim, Jong Pil Yun*, Hanchul Cho*"
+        title: "Linearly Sensitive Pressure Sensor Based on a Porous Multistacked Composite Structure with Controlled Mechanical and Electrical Properties"
+        information: "ACS Applied Materials & Interfaces, Vol.13(24), 28975-28984, 2021"
+
+      - author: "Seung Hyun Jeong+, Jong Pil Yun+, Han-Gyeol Yeom, Hwi Kang Kim, Bong Chul Kim*"
+        title: "Deep-Learning-Based Detection of Cranio-Spinal Differences between Skeletal Classification Using Cephalometric Radiography"
+        information: "Diagnostics, Vol.11(4), 591, 2021 (+ equally contributed)"
+
+      - author: "WooSang Shin+, Han-Gyol Yeom+, Ga Hyung Lee, Jong Pil Yun, Seung Hyun Jeong, Jong Hyun Lee, Hwi Kang Kim, Bong Chul Kim*"
+        title: "Deep learning based prediction of necessity for orthognathic surgery of skeletal malocclusion using cephalogram in Korean individuals"
+        information: "BMC Oral Health, Vol.21, 130, 2021 (+ equally contributed)"
+
+      - author: "Min Su Kim, Jong Pil Yun*, PooGyeon Park*"
+        title: "An Explainable Convolutional Neural Network for Fault Diagnosis in Linear Motion Guide"
+        information: "IEEE Transactions on Industrial Informatics, Vol.17(6), 4036-4045, 2021"
+
+      - author: "Gyogwon Koo, Jong Pil Yun, Hyeyeon Choi, Sang Woo Kim*"
+        title: "Unified deep neural networks for end-to-end recognition of multi-oriented billet identification number"
+        information: "Expert Systems with Applications, Vol.168, 114377, 2021"
+
+      - author: "Su-Jin Jeon+, Jong Pil Yun+, Han-Gyeol Yeom, Woo-Sang Shin, Jong-Hyun Lee, Seung-Hyun Jeong, Min-Seock Seo*"
+        title: "Deep-learning for predicting C-shaped canals in mandibular second molars on panoramic radiographs"
+        information: "Dentomaxillofacial Radiology, Vol.50(5), 20200513, 2021 (+ equally contributed)"
+
+      - author: "Jeong-Hun Yoo+, Han-Gyeol Yeom+, WooSang Shin, Jong Pil Yun, Jong-Hyun Lee, Seung-Hyun Jeong, Hun Jun Lim, Jun Lee, Bong Chul Kim*"
+        title: "Deep learning based prediction of extraction difficulty for mandibular third molars"
+        information: "Scientific Reports, Vol.11, 1954, 2021 (+ equally contributed)"
+
+  - year_range: "~2020"
+    entries:
+      - author: "Seung Hyun Jeong+, Jong Pil Yun+, Han-Gyeol Yeom, Hun Jun Lim, Jun Lee, Bong Chul Kim*"
+        title: "Deep learning based discrimination of soft tissue profiles requiring orthognathic surgery by facial photographs"
+        information: "Scientific Reports, Vol.10, 16235, 2020 (+ equally contributed)"
+
+      - author: "Jong Pil Yun*, Woosang Crino Shin, Gyogwon Koo, Min Su Kim, Chungki Lee, Sang Jun Lee"
+        title: "Automated defect inspection system for metal surfaces based on deep learning and data augmentation"
+        information: "Journal of Manufacturing Systems, Vol.55, 317-324, 2020"
+
+      - author: "Moon-Jo Kim, Jong Pil Yun, Ji-Ba-Reum Yang, Seung-Jun Choi, DongEung Kim*"
+        title: "Prediction of the Temperature of Liquid Aluminum and the Dissolved Hydrogen Content in Liquid Aluminum with a Machine Learning Approach"
+        information: "Metals, Vol.10(3), 330, 2020"
+
+      - author: "Hong-In Won*, M. Ercan Altinsoy"
+        title: "Effect of Auditory Feedback on Tactile Intensity Perception in a Touchscreen Application"
+        information: "IEEE Transactions on Haptics, Vol.13(2), 343-353, 2020"
+
+      - author: "Gyogwon Koo, Crino Shin, Hyeyeon Choi, Jong-Hak Lee, Sang Woo Kim*, Jong Pil Yun*"
+        title: "Automated brittle fracture rate estimator for steel property evaluation using deep learning after drop-weight tear test"
+        information: "IEEE Access, Vol.7, 145095-145103, 2019"
+
+      - author: "Sang Jun Lee, Sang Woo Kim, Wookyong Kwon, Gyogwon Koo, Jong Pil Yun*"
+        title: "Selective distillation of weakly annotated GTD for vision-based slab identification system"
+        information: "IEEE Access, Vol.7, 23177-23186, 2019"
+
+      - author: "Jong Pil Yun, Sang Jun Lee, Gyogwon Koo, Crino Shin, Chang Hyun Park*"
+        title: "Automatic defect inspection system for steel products with exhaustive dynamic encoding algorithm for searches"
+        information: "Optical Engineering, Vol.58(2), 023107, 2019"
+
+      - author: "Gyogwon Koo, Jong Pil Yun, Sang Jun Lee, Hyeyeon Choi, Sang Woo Kim*"
+        title: "End-to-end Billet Identification Number Recognition System"
+        information: "ISIJ International, Vol.59, 98-103, 2019"
+
+      - author: "Sang Jun Lee, Jong Pil Yun, Gyogwon Koo, Sang Woo Kim*"
+        title: "End-to-end recognition of slab identification numbers using a deep convolutional neural network"
+        information: "Knowledge-Based Systems, Vol.132, 1-10, 2017"
+
+
+domestic:
+  - author: "이예지, 신우상, 윤종필, 주문갑*"
+    title: "준지도 학습 기반의 미세조직 이미지 분할"
+    information: "대한임베디드공학회논문지, Vol.19, No.6, 307-312, 2024"
+
+  - author: "김성현, 홍윤표, 이상아*"
+    title: "어텐션 기반의 설명가능한 신경망을 사용한 충격파 예측"
+    information: "한국전산유체공학회지, Vol.29, No.3, 109-122, 2024"
+
+  - author: "박현빈, 홍윤표, 강유업, 이상아*"
+    title: "익형의 충격파 예측을 위한 인공지능 모델 학습 및 XAI 적용"
+    information: "한국전산유체공학회지, Vol.28, No.4, 16-26, 2023"
+
+  - author: "이상아, 유회수*, 서강명"
+    title: "합성곱 신경망을 이용한 단락이행의 용접 스패터 발생량 예측"
+    information: "대한용접접합학회지, Vol.41, No.1, 9-16, 2023"
+
+  - author: "강형민, 이상아*"
+    title: "고속철도차량 개활지 주행 시 공기역학적 불확실성을 고려한 팬터그래프의 접촉력 안정성 분석"
+    information: "한국전산유체공학회지, Vol.27, No.1, 89-94, 2022"
+
+  - author: "강형민, 이상아*"
+    title: "공기역학적 불확실성을 고려한 CX 팬터그래프의 접촉력 안정성 평가"
+    information: "한국전산유체공학회지, Vol.27, No.1, 76-82, 2021"
+
+  - author: "이준하, 원홍인, 김병학*"
+    title: "다중 도메인 데이터 기반 구별적 모델 예측 트레커를 위한 동적 탐색 영역 특징 강화 기법"
+    information: "대한임베디드공학회논문지, Vol.16, No.6, 323-330, 2021"
+
+  - author: "원홍인*, 정승현, 장진석, 윤종필"
+    title: "피드백 진동의 심층학습 기반 원단 분류 기술의 시험 및 평가"
+    information: "대한임베디드공학회논문지, Vol.16, No.2, 43-49, 2021"
+
+  - author: "윤종필*, 김민수, 구교권, 신우상"
+    title: "전이 학습과 진동 신호를 이용한 설비 고장 진단 및 분석"
+    information: "대한임베디드공학회논문지, Vol.14, No.6, 287-294, 2019"

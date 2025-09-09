@@ -1,0 +1,27 @@
+---
+# General Metadata
+date: 2024-09-02~07
+layout: portfolio/items/slider-layout
+title: 2024 KITECH-TUD 산업AI혁신 국제공동 워크숍 개최 및 HAPCOR Summer School 참여를 통한 국제기술교류
+
+# Contributor Metadata
+contributor: "원홍인 수석연구원 외"
+
+# Categorization
+grouped_by: grid
+filters:
+  - "2024"
+  - "Workshop"
+
+# Visual Content
+thumbnail: "/assets/images/activities/2024/2024 KITECH-TUD.jpg"
+big_image: "/assets/images/activities/2024/2024 KITECH-TUD.jpg"
+
+link: "/"
+slider_images:
+  - "/assets/images/activities/2024/2024 KITECH-TUD.jpg"
+#   - "/assets/images/art/pp2-2.webp"
+#   - "/assets/images/art/pp2-3.webp"
+---
+## About the Activity
+2024 KITECH-TUD 산업AI혁신 국제공동 워크숍 개최 및 HAPCOR Summer School 참여를 통한 국제기술교류
