@@ -12,7 +12,7 @@
   <div class="box bg-white shadow p-30">
     {% endif %}
     <figure class="main overlay overlay2 rounded mb-30">
-      <a href="{{post.big_image}}" class="lightbox"> <img src="{{post.thumbnail}}" alt="" style="width: 100%; height: 260px; object-fit: cover;"/></a>
+      <a href="{{post.big_image}}" class="lightbox"> <img src="{{post.thumbnail}}" alt="" style="width: 100%; height: 260px; object-fit: scale-down;"/></a>
     </figure>
     {% unless hide_content %}
     <div class="post-content">
