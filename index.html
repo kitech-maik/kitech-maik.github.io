@@ -506,11 +506,11 @@ blogs_area:
 	        <h2 class="section-title text-uppercase mb-20">{{page.video_area.title}}</h2>
 	      {% endif %}
 	      {% if page.video_area.sub_title %}
-	        <p>{{page.video_area.sub_title}}</p>
+	        <p class="text-justify">{{page.video_area.sub_title}}</p>
 	       {% endif %}
 	        <ul class="icon-list bullet-default">
 	         {% for list in page.video_area.lists %}
-	          <li>
+	          <li style="text-align: justify;">
 	          	<i class="jam jam-arrow-right"></i> {{list}}
 	          </li>
 	          {% endfor %}
@@ -536,7 +536,7 @@ blogs_area:
 	          </div>
 	          <div>
 	            <h5>{{service.title}}</h5>
-	            <p class="mb-0">{{service.description}}</p>
+	            <p class="mb-0 text-justify">{{service.description}}</p>
 	          </div>
 	        </div>
 	      </div>

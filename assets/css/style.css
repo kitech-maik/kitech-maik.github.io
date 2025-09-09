@@ -7244,3 +7244,7 @@ footer.inverse-text address {
 .overflow-hidden {
     overflow: hidden;
 }
+
+.text-justify {
+  text-align: justify;
+}
