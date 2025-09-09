@@ -343,7 +343,58 @@ students:
       
     image: "/assets/images/member/students/증명사진_신종현.png"
 
+  - name: "이관영 연구원"
+    designation: >
+      KWAN YEONG LEE
 
+      Master Student in Engineering Sciences
+
+      (lcy629@kitech.re.kr)
+    description: >
+      학연협동과정 연수생
+      
+      한양대학교 산업경영공학과 
+      
+      석사과정 (2025 ~ 현재)
+
+      
+    image: "/assets/images/member/students/증명사진_이관영.png"
+
+  - name: "이건희 연구원"
+    designation: >
+      Geonhui Lee
+
+      Master Student in Computer Science
+
+      (opop757@kitech.re.kr)
+    description: >
+      학연협동과정 연수생
+      
+      한양대학교 컴퓨터·소프트웨어학과
+      
+      석사과정 (2025 ~ 현재)
+
+      
+    image: "/assets/images/member/students/증명사진_이건희.jpg"
+
+  - name: "조수혜 연구원"
+    designation: >
+      Suhye Cho
+
+      Master Student in Artificial Intelligence
+
+      (suhye@kitech.re.kr)
+
+
+    description: >
+      학연협동과정 연수생
+      
+      한양대학교 인공지능융합학과
+      
+      석사과정 (2025 ~ 현재)
+
+      
+    image: "/assets/images/member/students/증명사진_조수혜.jpg"
 
 
 ############################## Intern ##########################

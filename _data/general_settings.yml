@@ -18,8 +18,8 @@ color_scheme:  #Aqua Blue Brown Cobalt Green Hibiscus Leaf Meander Orange Pink P
 font_scheme:  # Jost, Nunito , DM Sans + Zilla Slab , HK Grotesk, Abhaya, Libre
 
 # Sitewide Logo
-black_logo_1x: "/assets/images/maik_240.webp"
-black_logo_2x: "/assets/images/maik_240.webp"
+black_logo_1x: "/assets/images/maik2_240.webp"
+black_logo_2x: "/assets/images/maik2_240.webp"
 light_logo_1x: "/assets/images/maik_240.webp"
 light_logo_2x: "/assets/images/maik_240.webp"
 

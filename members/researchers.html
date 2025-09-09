@@ -6,10 +6,24 @@ background_image: "/assets/images/art/bg6.webp"
 
 teams_carousel_researcher:
   enable: true
-  data_source: researchers
-  title: Meet The Team
+  title: Our Research Group
   sub_title: |
-    Researchers at KMAI
+    Researchers (MAIK)
+
+teams_table_researcher:
+  enable: true
+  title: Our Research Group
+  sub_title: |
+    Affiliated Researchers (KITECH)
+
+
+teams_list_researcher:
+  enable: true
+  sub_title: |
+    Research Collaborators
+
+
+
 
 ---
 {% include layouts/nav/nav-1.html drop_search=true alignment_class="ms-auto" %}
@@ -17,282 +31,37 @@ teams_carousel_researcher:
 
 <!-- wrapper team members-->
 {% if page.teams_carousel_researcher.enable %}
-
-{% include components/team/team-members.html 
-   data=site.data.team_carousel.researchers  
-   title=page.teams_carousel_researcher.title 
-   sub_title=page.teams_carousel_researcher.sub_title 
-%}
-
-{% endif %}
-
-
-
-<!--/.wrapper team members-->
-
-<!--
 <div class="wrapper light-wrapper">
-  <div class="container inner">
-    <hr class="dotted" />
-    <div class="space30"></div>
-  </div>
-</div>
--->
+  {% include components/team/team-members.html 
+    data=site.data.team_carousel.researchers  
+    title=page.teams_carousel_researcher.title 
+    sub_title=page.teams_carousel_researcher.sub_title 
+  %}
 
-<!-- /.wrapper -->
+  {% endif %}
+</div>
+
 <div class="wrapper gray-wrapper">
-  <div class="container inner">
-    <h2 class="section-title mb-40 text-center">Affiliated Researchers at KITECH
-    </h2>
-    <div class="row">
-      <div class="col-md-10 offset-md-1">
-        <table class="table table-hover w-100">
-          <colgroup>
-            <col style="width: 5%;">
-            <col style="width: 20%;">
-            <col style="width: 30%;">
-            <col style="width: 20%;"> <!-- 이름 열 -->
-            <col style="width: 25%;">
-          </colgroup>
-
-          <thead>
-            <tr>
-              <th scope="col">#</th>
-              <th scope="col">소속</th>
-              <th scope="col">부문</th>
-              <th scope="col">이름</th>
-              <th scope="col">메일</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <th scope="row">1</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>소재공급망연구부문</td>
-              <td>김동응 수석연구원</td>
-              <td>canon@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">2</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>소재공급망연구부문</td>
-              <td>김문조 수석연구원</td>
-              <td>moonjokim@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">3</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>소재공급만연구부문</td>
-              <td>이민하 수석연구원</td>
-              <td>mhlee1@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">4</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>소재공급망연구부문</td>
-              <td>김효섭 수석연구원</td>
-              <td>hyoseop1231@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">5</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>주문형생산연구부문</td>
-              <td>조인성 수석연구원</td>
-              <td>ischo@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">6</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>유연생산연구부문</td>
-              <td>유회수 수석연구원</td>
-              <td>hsryoo@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">7</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>신산업부품화연구부문</td>
-              <td>황태진 수석연구원</td>
-              <td>greathtj@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">8</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>지역산업혁신부문(성장동력)</td>
-              <td>김용대 수석연구원</td>
-              <td>ydkim@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">9</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>지역산업혁신부문(성장동력)</td>
-              <td>고용호 수석연구원</td>
-              <td>yonghoko@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">10</th>
-              <td>지능화뿌리기술연구소</td>
-              <td>경영지원단(지능화)</td>
-              <td>이상일 수석행정원</td>
-              <td>silee@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">11</th>
-              <td>인간지능생산기술연구소</td>
-              <td>지역산업혁신부문(제조로봇)</td>
-              <td>이재선 선임연구원</td>
-              <td>js.lee@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">12</th>
-              <td>인간지능생산기술연구소</td>
-              <td>지역산업혁신부문(제조로봇)</td>
-              <td>임승주 선임연구원</td>
-              <td>limsj@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">13</th>
-              <td>인간지능생산기술연구소</td>
-              <td>국가엔지니어링센터</td>
-              <td>이성호 수석연구원</td>
-              <td>memslee@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">14</th>
-              <td>인간지능생산기술연구소</td>
-              <td>국가엔지니어링센터</td>
-              <td>은영기 수석연구원</td>
-              <td>yeun@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">15</th>
-              <td>인간지능생산기술연구소</td>
-              <td>국가엔지니어링센터</td>
-              <td>김승욱 선임연구원</td>
-              <td>kswltd@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">16</th>
-              <td>인간지능생산기술연구소</td>
-              <td>국가엔지니어링센터</td>
-              <td>우성철 연구원</td>
-              <td>ccc9663@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">17</th>
-              <td>지속가능기술연구소</td>
-              <td>산업전환기술부문</td>
-              <td>태현철 수석연구원</td>
-              <td>sage@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">18</th>
-              <td>지속가능기술연구소</td>
-              <td>산업전환기술부문</td>
-              <td>유영준 수석연구원</td>
-              <td>youdalj@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">19</th>
-              <td>지속가능기술연구소</td>
-              <td>저탄소배출제어연구부문</td>
-              <td>이영재 수석연구원</td>
-              <td>leeyj@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">20</th>
-              <td>지속가능기술연구소</td>
-              <td>지역산업혁신부문(배출저감)</td>
-              <td>이용운 수석연구원</td>
-              <td>ywlee8131@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">21</th>
-              <td>강원기술실용화본부</td>
-              <td>기능성소재부품그룹</td>
-              <td>모찬빈 수석연구원</td>
-              <td>cbmo@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">22</th>
-              <td>울산기술실용화본부</td>
-              <td>스마트정형공정그룹</td>
-              <td>하정홍 수석연구원</td>
-              <td>jhjh@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">23</th>
-              <td>대경기술실용화본부</td>
-              <td>모빌리티부품그룹</td>
-              <td>장진석 수석연구원</td>
-              <td>jsjang@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">24</th>
-              <td>대경기술실용화본부</td>
-              <td>모빌리티시스템그룹</td>
-              <td>권순오 수석연구원</td>
-              <td>kso1975@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">25</th>
-              <td>대경기술실용화본부</td>
-              <td>모빌리티시스템그룹</td>
-              <td>김병학 수석연구원</td>
-              <td>bhkim81@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">26</th>
-              <td>전북기술실용화본부</td>
-              <td>탄소경량소재그룹</td>
-              <td>김재황 수석연구원</td>
-              <td>raykim@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">27</th>
-              <td>전북기술실용화본부</td>
-              <td>탄소경량소재그룹</td>
-              <td>심지연 수석연구원</td>
-              <td>shimjy@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">28</th>
-              <td>서남기술실용화본부</td>
-              <td>목적기반모빌리티그룹</td>
-              <td>윤동호 수석연구원</td>
-              <td>lipo123@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">29</th>
-              <td>서남기술실용화본부</td>
-              <td>목적기반모빌리티그룹</td>
-              <td>주찬영 선임연구원</td>
-              <td>cyju@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">30</th>
-              <td>서남기술실용화본부</td>
-              <td>에너지나노그룹</td>
-              <td>서태훈 수석연구원</td>
-              <td>thseo@kitech.re.kr</td>
-            </tr>
-            <tr>
-              <th scope="row">31</th>
-              <td>동남기술실용화본부</td>
-              <td>에너지시스템그룹</td>
-              <td>김철민 선임연구원</td>
-              <td>chmikim@kitech.re.kr</td>
-            </tr>
-
-          </tbody>
-        </table>
-       
-      <!-- /column -->
-    </div>
-    <!-- /.row -->
-  </div>
-  <!-- /.container -->
+  {% if page.teams_table_researcher.enable %}
+    {% include components/team/team-members.html
+      data=site.data.affiliates          
+      title=page.teams_table_researcher.title 
+      sub_title=page.teams_table_researcher.sub_title 
+      layout='table'                              
+      enable_search=true
+    %}
+  {% endif %}
 </div>
-<!-- /.wrapper -->
+
+<div class="wrapper light-wrapper">
+  {% if page.teams_list_researcher.enable %}
+    {% include components/team/team-members.html
+      layout='list'
+      sub_title="Research Collaborators"
+      data=site.data.collaborators  
+    %}
+  {% endif %}
+</div>
 
 
 <!--/.footer Wrapper-->
