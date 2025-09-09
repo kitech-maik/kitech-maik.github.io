@@ -228,11 +228,13 @@ students:
 
       (chris257@kitech.re.kr)
     description: >
+      학연협동과정 연수생
+      
       고려대학교 산업경영공학과 
       
       석·박사 통합과정 (2024 ~ 현재)
 
-      학연협동과정 연수생
+      
     image: "/assets/images/member/students/증명사진_하승엽.png"
 
   - name: "이종현 연구원"
@@ -245,11 +247,12 @@ students:
 
        
     description: >
+      학연협동과정 연수생
+      
       경북대학교 IT대학 전자공학부 
       
       박사과정
 
-      학연협동과정 연수생
     image: "/assets/images/member/students/증명사진_이종현.png"
 
   - name: "손진영 연구원"
@@ -262,11 +265,12 @@ students:
 
        
     description: >
+      학연협동과정 연수생
+
       경북대학교 IT대학 전자공학부 
       
       박사과정
 
-      학연협동과정 연수생
     image: "/assets/images/member/students/증명사진_손진영.png"
 
   - name: "이재영 연구원"
@@ -277,11 +281,13 @@ students:
 
       (leejyoung0325@kitech.re.kr)
     description: >
+      학연협동과정 연수생
+      
       성균관대학교 기계공학과 
       
       석사과정 (2024 ~ 현재)
 
-      학연협동과정 연수생
+      
     image: "/assets/images/member/students/증명사진_이재영.png"
 
   - name: "황재훈 연구원"
@@ -292,11 +298,13 @@ students:
 
       (jv29734v@kitech.re.kr)
     description: >
+      학연협동과정 연수생
+      
       한양대학교 인공지능융합학과 
       
       석사과정 (2024 ~ 현재)
 
-      학연협동과정 연수생
+      
     image: "/assets/images/member/students/증명사진_황재훈.png"
 
   - name: "서예찬 연구원"
@@ -309,11 +317,13 @@ students:
 
        
     description: >
+      학연협동과정 연수생
+      
       성균관대학교 지능형로봇학과 
       
       석사과정 (2025 ~ 현재)
 
-      학연협동과정 연수생
+      
     image: "/assets/images/member/students/증명사진_서예찬.png"
 
   - name: "신종현 연구원"
@@ -324,11 +334,13 @@ students:
 
       (sjh0803@kitech.re.kr)
     description: >
+      학연협동과정 연수생
+      
       경희대학교 기계공학과 
       
       석사과정 (2025 ~ 현재)
 
-      학연협동과정 연수생
+      
     image: "/assets/images/member/students/증명사진_신종현.png"
 
 
@@ -337,8 +349,15 @@ students:
 ############################## Intern ##########################
 
 interns: 
-  - name: "신현우(자체 인턴)"
-    image: "/assets/images/member/students/증명사진_신현우.png"
 
-  - name: "이관영(자체 인턴)"
-    image: "/assets/images/member/students/증명사진_이관영.png"
+  - name: "박선영 (현장실습생)"
+    image: "/assets/images/member/students/증명사진_박선영.jpg"
+
+  - name: "노원우 (현장실습생)"
+    image: "/assets/images/member/students/증명사진_노원우.jpg"
+
+  - name: "최진원 (현장실습생)"
+    image: "/assets/images/member/students/증명사진_최진원.jpg"
+
+  - name: "송주훈 (현장실습생)"
+    image: "/assets/images/member/students/증명사진_송주훈.jpg"
