@@ -7248,3 +7248,79 @@ footer.inverse-text address {
 .text-justify {
   text-align: justify;
 }
+.line-clamp-1,
+.line-clamp-2,
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  /* IDE 경고/미래 대비용(실동작은 -webkit-) */
+  display: box;      /* 브라우저가 모르면 무시됨 → 위의 -webkit-box가 유지됨 */
+  box-orient: vertical;
+}
+.line-clamp-1 { -webkit-line-clamp: 1; line-clamp: 1; }
+.line-clamp-2 { -webkit-line-clamp: 2; line-clamp: 2; }
+.line-clamp-3 { -webkit-line-clamp: 3; line-clamp: 3; }
+
+/* 제목 컨테이너: 넘침 2차 차단 + 간격 */
+.two-line-title {
+  --title-lh: 1.35;   /* 줄높이 */
+  --title-lines: 2;   /* 줄 수 */
+  overflow: hidden;   /* 부모에서도 넘침 차단 */
+  line-height: var(--title-lh);
+  margin-bottom: 0.75rem;
+}
+
+/* 핵심: a(클램프 대상)에 '정확히 2줄 높이' 고정 */
+.two-line-title > .line-clamp-2 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: var(--title-lines);
+
+  line-height: var(--title-lh);
+
+  /* 항상 2줄 영역 확보: 높이 고정 */
+  height: calc(var(--title-lh) * 1em * var(--title-lines));
+  /* (동일 효과) min/max를 같은 값으로 고정하려면 아래 두 줄 사용
+     min-height: calc(var(--title-lh) * 1em * var(--title-lines));
+     max-height: calc(var(--title-lh) * 1em * var(--title-lines));
+  */
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  /* 테마 여백/밑줄 간섭 차단 */
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  border: 0;
+
+  /* IDE 경고/미래 대비 */
+  display: box;
+  box-orient: vertical;
+  line-clamp: var(--title-lines);
+}
+
+/* hover 시에만 밑줄 */
+.two-line-title > .line-clamp-2:hover { text-decoration: underline; }
+
+/* 본문 요약도 같은 원리(3줄) — 상한이 아니라 '고정 높이' 권장 */
+.post-content .line-clamp-3 {
+  --excerpt-lh: 1.6;
+  --excerpt-lines: 3;
+
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: var(--excerpt-lines);
+
+  line-height: var(--excerpt-lh);
+  height: calc(var(--excerpt-lh) * 1em * var(--excerpt-lines)); /* 고정 높이 */
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  display: box;
+  box-orient: vertical;
+  line-clamp: var(--excerpt-lines);
+}
