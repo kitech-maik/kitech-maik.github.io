@@ -8,6 +8,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag 
 
 collections:
   authors:
