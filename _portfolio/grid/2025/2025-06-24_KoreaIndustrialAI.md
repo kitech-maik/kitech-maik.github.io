@@ -14,12 +14,12 @@ filters:
   - "Keynote Speech"
 
 # Visual Content
-thumbnail: "/assets/images/activities/2025/2025_KoreaIndustrialAI.jpg"
-big_image: "/assets/images/activities/2025/2025_KoreaIndustrialAI.jpg"
+thumbnail: "/assets/images/activities/2025/2025_KoreaIndustrialAI.webp"
+big_image: "/assets/images/activities/2025/2025_KoreaIndustrialAI.webp"
 
 link: "/"
 slider_images:
-  - "/assets/images/activities/2025/2025_KoreaIndustrialAI.jpg"
+  - "/assets/images/activities/2025/2025_KoreaIndustrialAI.webp"
 #   - "/assets/images/art/pp2-2.webp"
 #   - "/assets/images/art/pp2-3.webp"
 ---

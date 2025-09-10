@@ -14,12 +14,12 @@ filters:
   - "Tutorial"
 
 # Visual Content
-thumbnail: "/assets/images/activities/2025/2025_재료인공지능.png"
-big_image: "/assets/images/activities/2025/2025_재료인공지능.png"
+thumbnail: "/assets/images/activities/2025/2025_재료인공지능.webp"
+big_image: "/assets/images/activities/2025/2025_재료인공지능.webp"
 
 link: "/"
 slider_images:
-  - "/assets/images/activities/2025/2025_재료인공지능.png"
+  - "/assets/images/activities/2025/2025_재료인공지능.webp"
 #   - "/assets/images/art/pp2-2.webp"
 #   - "/assets/images/art/pp2-3.webp"
 ---

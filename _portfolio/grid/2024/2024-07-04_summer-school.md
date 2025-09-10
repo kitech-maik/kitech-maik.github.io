@@ -14,12 +14,12 @@ filters:
   - "Seminar"
 
 # Visual Content
-thumbnail: "/assets/images/activities/2024/2024 대한금속재료학회.jpg"
-big_image: "/assets/images/activities/2024/2024 대한금속재료학회.jpg"
+thumbnail: "/assets/images/activities/2024/2024 대한금속재료학회.webp"
+big_image: "/assets/images/activities/2024/2024 대한금속재료학회.webp"
 
 link: "/"
 slider_images:
-  - "/assets/images/activities/2024/2024 대한금속재료학회.jpg"
+  - "/assets/images/activities/2024/2024 대한금속재료학회.webp"
 #   - "/assets/images/art/pp2-2.webp"
 #   - "/assets/images/art/pp2-3.webp"
 ---
