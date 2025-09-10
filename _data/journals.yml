@@ -1,4 +1,15 @@
 international:
+  - year_range: "2025"
+    entries:
+      - author: "Yun-Il Choi*, Eun-Hye Hwang, Sanga Lee*"
+        title: "Electrochemical Estimation of Flow Velocity Using CNT/rGO-Filled Polyurethane Nanocomposites"
+        information: "Polymers and Polymer Composites, 2025 (accepted)"
+
+      - author: "Sang-Hyun Rhie, Eric Coatanéa, Sanga Lee, Wonjong Jung, Jeongsu Lee*"
+        title: "Resolving forward and inverse problems of rarefied gas heat transfer in an infrared detector cryochamber using physics-informed neural networks"
+        information: "Applied Thermal Engineering, 277:127104, 2025"
+
+
   - year_range: "2024-2023"
     entries:
       - author: "Inje Jang, Gihyun Bae, Dohyeong Kim, Geunho Kim, Sanga Lee*"
