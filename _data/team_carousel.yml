@@ -20,7 +20,7 @@ researchers:
       포스코 책임연구원 (2009 ~ 2016)
 
       포항공과대학교 전자전기공학 박사 (2009)
-    image: "/assets/images/member/researcher/증명사진_윤종필.png"
+    image: "/assets/images/member/researcher/증명사진_윤종필.webp"
   - name: "원홍인 수석연구원"
     designation: >
       Hong-In Won
@@ -38,7 +38,7 @@ researchers:
       TU Dresden Postdoc. (2017 ~ 2019)
 
       한양대학교 기계설계공학 박사 (2017)
-    image: "/assets/images/member/researcher/증명사진_원홍인.png"
+    image: "/assets/images/member/researcher/증명사진_원홍인.webp"
 
   - name: "이상아 수석연구원"
     designation: >
@@ -55,7 +55,7 @@ researchers:
       삼성전자 Staff Engineer (2018 ~ 2019)
 
       서울대학교 항공우주공학 박사 (2017)
-    image: "/assets/images/member/researcher/증명사진_이상아.png"
+    image: "/assets/images/member/researcher/증명사진_이상아.webp"
 
 
   - name: "태현철 수석연구원"
@@ -72,7 +72,7 @@ researchers:
 
       포항공과대학교 산업경영공학 박사 (2015)
 
-    image: "/assets/images/member/researcher/증명사진_태현철.png"
+    image: "/assets/images/member/researcher/증명사진_태현철.webp"
 
 
   - name: "김민수 선임연구원"
@@ -90,7 +90,7 @@ researchers:
       삼성전자 Staff Engineer (2022 ~ 2024)
 
       포항공과대학교 전자전기공학 박사 (2022)
-    image: "/assets/images/member/researcher/증명사진_김민수.png"
+    image: "/assets/images/member/researcher/증명사진_김민수.webp"
 
   - name: "강유업 선임연구원"
     designation: >
@@ -107,7 +107,7 @@ researchers:
       서울대학교 항공우주공학 박사 (2025)
 
 
-    image: "/assets/images/member/researcher/증명사진_강유업.jpg"
+    image: "/assets/images/member/researcher/증명사진_강유업.webp"
 
 
 
@@ -122,7 +122,7 @@ researchers:
       KITECH 연구원 (2023 ~ 현재)
 
       전남대학교 인공지능융합학과 석사 (2023)
-    image: "/assets/images/member/researcher/증명사진_윤준석.png"
+    image: "/assets/images/member/researcher/증명사진_윤준석.webp"
 
   - name: "김예진 연구원"
     designation: >
@@ -137,7 +137,7 @@ researchers:
       KITECH 연구원 (2024 ~ 현재)
 
       가천대학교 컴퓨터공학과 석사 (2024)
-    image: "/assets/images/member/researcher/증명사진_김예진.png"
+    image: "/assets/images/member/researcher/증명사진_김예진.webp"
 
   - name: "이정훈 기술원"
     designation: >
@@ -148,7 +148,7 @@ researchers:
        
     description: >
       KITECH 기술원 (2018 ~ 현재)
-    image: "/assets/images/member/researcher/증명사진_이정훈.png"
+    image: "/assets/images/member/researcher/증명사진_이정훈.webp"
 
   - name: "김동주 연구원 (포스트닥터)"
     designation: >
@@ -161,7 +161,7 @@ researchers:
       KITECH 포스트닥터 (2024 ~ 현재)
 
       한양대학교 기계설계공학 박사(2023)
-    image: "/assets/images/member/researcher/증명사진_김동주.png"
+    image: "/assets/images/member/researcher/증명사진_김동주.webp"
 
   - name: "조현진 연구원 (연구별정)"
     designation: >
@@ -174,7 +174,7 @@ researchers:
       KITECH 연구원 (2025 ~ 현재)
 
       중앙대학교 영상공학 석사 (2025)
-    image: "/assets/images/member/researcher/증명사진_조현진.jpg"
+    image: "/assets/images/member/researcher/증명사진_조현진.webp"
 
 
 
@@ -192,7 +192,7 @@ students:
       UST 융합제조시스템공학 
       
       박사과정 (2023 ~ 현재)
-    image: "/assets/images/member/students/증명사진_변영훈.png"
+    image: "/assets/images/member/students/증명사진_변영훈.webp"
 
   - name: "김지헌 연구원"
     designation: >
@@ -205,7 +205,7 @@ students:
       UST 융합제조시스템공학 
       
       박사과정 (2023 ~ 현재)
-    image: "/assets/images/member/students/증명사진_김지헌.png"
+    image: "/assets/images/member/students/증명사진_김지헌.webp"
 
   # - name: "김도형 연구원"
   #   designation: >
@@ -218,7 +218,7 @@ students:
   #     경희대학교 기계공학부 
       
   #     석사과정 (2023 ~ 현재)
-  #   image: "/assets/images/member/students/증명사진_김도형.png"
+  #   image: "/assets/images/member/students/증명사진_김도형.webp"
 
   - name: "하승엽 연구원"
     designation: >
@@ -235,7 +235,7 @@ students:
       석·박사 통합과정 (2024 ~ 현재)
 
       
-    image: "/assets/images/member/students/증명사진_하승엽.png"
+    image: "/assets/images/member/students/증명사진_하승엽.webp"
 
   - name: "이종현 연구원"
     designation: >
@@ -253,7 +253,7 @@ students:
       
       박사과정
 
-    image: "/assets/images/member/students/증명사진_이종현.png"
+    image: "/assets/images/member/students/증명사진_이종현.webp"
 
   - name: "손진영 연구원"
     designation: >
@@ -271,7 +271,7 @@ students:
       
       박사과정
 
-    image: "/assets/images/member/students/증명사진_손진영.png"
+    image: "/assets/images/member/students/증명사진_손진영.webp"
 
   - name: "이재영 연구원"
     designation: >
@@ -288,7 +288,7 @@ students:
       석사과정 (2024 ~ 현재)
 
       
-    image: "/assets/images/member/students/증명사진_이재영.png"
+    image: "/assets/images/member/students/증명사진_이재영.webp"
 
   - name: "황재훈 연구원"
     designation: >
@@ -305,7 +305,7 @@ students:
       석사과정 (2024 ~ 현재)
 
       
-    image: "/assets/images/member/students/증명사진_황재훈.png"
+    image: "/assets/images/member/students/증명사진_황재훈.webp"
 
   - name: "서예찬 연구원"
     designation: >
@@ -324,7 +324,7 @@ students:
       석사과정 (2025 ~ 현재)
 
       
-    image: "/assets/images/member/students/증명사진_서예찬.png"
+    image: "/assets/images/member/students/증명사진_서예찬.webp"
 
   - name: "신종현 연구원"
     designation: >
@@ -341,7 +341,7 @@ students:
       석사과정 (2025 ~ 현재)
 
       
-    image: "/assets/images/member/students/증명사진_신종현.png"
+    image: "/assets/images/member/students/증명사진_신종현.webp"
 
   - name: "이관영 연구원"
     designation: >
@@ -358,7 +358,7 @@ students:
       석사과정 (2025 ~ 현재)
 
       
-    image: "/assets/images/member/students/증명사진_이관영.png"
+    image: "/assets/images/member/students/증명사진_이관영.webp"
 
   - name: "이건희 연구원"
     designation: >
@@ -375,7 +375,7 @@ students:
       석사과정 (2025 ~ 현재)
 
       
-    image: "/assets/images/member/students/증명사진_이건희.jpg"
+    image: "/assets/images/member/students/증명사진_이건희.webp"
 
   - name: "조수혜 연구원"
     designation: >
@@ -394,7 +394,7 @@ students:
       석사과정 (2025 ~ 현재)
 
       
-    image: "/assets/images/member/students/증명사진_조수혜.jpg"
+    image: "/assets/images/member/students/증명사진_조수혜.webp"
 
 
 ############################## Intern ##########################
@@ -402,13 +402,13 @@ students:
 interns: 
 
   - name: "박선영 (현장실습생)"
-    image: "/assets/images/member/students/증명사진_박선영.jpg"
+    image: "/assets/images/member/students/증명사진_박선영.webp"
 
   - name: "노원우 (현장실습생)"
-    image: "/assets/images/member/students/증명사진_노원우.jpg"
+    image: "/assets/images/member/students/증명사진_노원우.webp"
 
   - name: "최진원 (현장실습생)"
-    image: "/assets/images/member/students/증명사진_최진원.jpg"
+    image: "/assets/images/member/students/증명사진_최진원.webp"
 
   - name: "송주훈 (현장실습생)"
-    image: "/assets/images/member/students/증명사진_송주훈.jpg"
+    image: "/assets/images/member/students/증명사진_송주훈.webp"

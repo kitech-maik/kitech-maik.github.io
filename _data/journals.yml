@@ -178,9 +178,21 @@ international:
 
 
 domestic:
+  - author: "황재훈, 하승엽, 윤준석, 김민수, 이상아, 윤종필, 원홍인*"
+    title: "Two-Bounce LiDAR와 디지털 트윈을 활용한 사각지대 객체 탐지용 데이터 생성 프레임워크"
+    information: "한국컴퓨터정보학회논문지, Vol.30, No.6, 2025"
+
+  - author: "변영훈, 윤준석, 이상아, 김민수, 원홍인, 윤종필*"
+    title: "금속 SEM 이미지 시멘틱 분할을 위한 Multi-scale cross-attention 및 SegFormer 기반 모델 개발"
+    information: "제어로봇시스템학회, Vol.31, No.5, 566-572, 2025"
+
+  - author: "박주하, 최지호, 윤종필, 염한결, 이병도*, 이상준*"
+    title: "파노라마 X-ray 영상에서의 상악동 영역 세그멘테이션을 위한 어텐션 기반의 U-Net 트랜스포머"
+    information: "대한임베디드공학회논문지, Vol.20, No.2, 83-89, 2025"
+
   - author: "이예지, 신우상, 윤종필, 주문갑*"
     title: "준지도 학습 기반의 미세조직 이미지 분할"
-    information: "대한임베디드공학회논문지, Vol.19, No.6, 307-312, 2024"
+    information: "대한임베디드공학회논문지, Vol.19, No.6, 307-312, 2024"    
 
   - author: "김성현, 홍윤표, 이상아*"
     title: "어텐션 기반의 설명가능한 신경망을 사용한 충격파 예측"

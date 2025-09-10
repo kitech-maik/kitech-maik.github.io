@@ -1,111 +1,129 @@
 domestic_partners:
   - institution: 가톨릭대학교 서울성모병원
     contacts:
-      - 임지용 교수
+      - name: 임지용 교수
 
   - institution: 경북대학교
     contacts:
-      - 김민영 교수
-      - 이상문 교수
+      - name: 김민영 교수
+        link: "https://omrob.knu.ac.kr/"
+      - name: 이상문 교수 
+        link: "https://home.knu.ac.kr/HOME/control/"
 
   - institution: 경희대학교
     contacts:
-      - 이정수 교수
+      - name: 이정수 교수
 
   - institution: 고려대학교
     contacts:
-      - 백준걸 교수
+      - name: 백준걸 교수
+        link: "http://sps.korea.ac.kr/"
 
   - institution: 단국대학교 치과대학
     contacts:
-      - 오규영 교수
+      - name: 오규영 교수
 
   - institution: 부경대학교
     contacts:
-      - 주문갑 교수
+      - name: 주문갑 교수
+        link: "https://cal.pknu.ac.kr/cal/1"
 
   - institution: 서강대학교
     contacts:
-      - 강석주 교수
+      - name: 강석주 교수
+        link: "https://vds.sogang.ac.kr/"
 
   - institution: 서울대학교
     contacts:
-      - 이정혜 교수
-      - 천정희 교수
+      - name: 이정혜 교수
+        link: "https://d3mlab.snu.ac.kr/"
+      - name: 천정희 교수
 
   - institution: 성균관대학교
     contacts:
-      - 유현우 교수
-      - 이상원 교수
+      - name: 유현우 교수
+        link: "https://lair.skku.edu/"
+      - name: 이상원 교수
+        link: "http://sdml.skku.edu/"
 
   - institution: 연세대학교 치과대학
     contacts:
-      - 이채나 교수
+      - name: 이채나 교수
 
   - institution: 원광대학교 치과대학
     contacts:
-      - 염한결 교수
+      - name: 염한결 교수
 
   - institution: 전북대학교
     contacts:
-      - 이상준 교수
+      - name: 이상준 교수
+        link: "https://sites.google.com/view/miljbnu"
 
   - institution: 청주대학교
     contacts:
-      - 손찬규 교수
+      - name: 손찬규 교수
 
   - institution: 카이스트
     contacts:
-      - 이승철 교수
+      - name: 이승철 교수
+        link: "https://iailab.kaist.ac.kr/home"
 
   - institution: 포항공과대학교
     contacts:
-      - 김상우 교수
-      - 박부견 교수
+      - name: 김상우 교수
+        link: "https://icsl.postech.ac.kr/"
+      - name: 박부견 교수
+        link: "https://spac.postech.ac.kr/"
 
   - institution: 한국공학대학교
     contacts:
-      - 김동민 교수
-      - 김동찬 교수
+      - name: 김동민 교수
+      - name: 김동찬 교수
 
   - institution: 한국기계연구원
     contacts:
-      - 선경호 박사
+      - name: 선경호 박사
 
   - institution: 한국기술교육대학교
     contacts:
-      - 정승현 교수
+      - name: 정승현 교수
+        link: "https://sites.google.com/view/aimlab-koreatech"
 
   - institution: 한국재료연구원
     contacts:
-      - 김세종 박사
-      - 이호원 박사
+      - name: 김세종 박사
+      - name: 이호원 박사
 
   - institution: 한국전자통신연구원
     contacts:
-      - 김광주 박사
-      - 장인수 박사
+      - name: 김광주 박사
+      - name: 장인수 박사
 
   - institution: 한서대학교
     contacts:
-      - 이동욱 교수
+      - name: 이동욱 교수
 
   - institution: 한양대학교
     contacts:
-      - 정진태 교수
-      - 이연준 교수
-      - 서경민 교수
-      - 윤석민 교수
+      - name: 정진태 교수
+        link: "https://vibra.hanyang.ac.kr/"
+      - name: 이연준 교수
+        link: "https://ace.hanyang.ac.kr/"
+      - name: 서경민 교수
+      - name: 윤석민 교수
 
 international_partners:
-  - institution: German Aerospace Center (DLR)
-    contacts:
-      - 홍윤표 박사
-
   - institution: Georgia Institute of Technology
     contacts:
-      - Seung-Kyum Choi Professor
+      - name: Seung-Kyum Choi Professor
+        link: "https://www.me.gatech.edu/faculty/choi"
+
+  - institution: German Aerospace Center (DLR)
+    contacts:
+      - name: 홍윤표 박사
+        link: "https://sites.google.com/view/flyoon/home?authuser=0"
 
   - institution: Technische Universität Dresden
     contacts:
-      - M. Ercan Altinsoy Professor
+      - name: M. Ercan Altinsoy Professor
+        link: "https://tu-dresden.de/ing/elektrotechnik/ias/aha/die-professur/inhaber-in"

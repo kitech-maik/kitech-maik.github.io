@@ -48,11 +48,11 @@ background_image: "/assets/images/art/bg5.webp"
               <ol class="ordered-list-number">
                 {% for section in site.data.journals.international %}
                   {% for paper in section.entries %}
-                    <li>
-                      {{ paper.author }}.
-                      "<em>{{ paper.title }}</em>",
-                      {{ paper.information }}
-                    </li>
+                  <li>
+                    {% include utilities/bold-author.html text=paper.author %}.
+                    "<em>{{ paper.title }}</em>",
+                    {{ paper.information }}
+                  </li>
                   {% endfor %}
                 {% endfor %}
               </ol>
@@ -64,7 +64,7 @@ background_image: "/assets/images/art/bg5.webp"
               <ol class="ordered-list-number">
                 {% for paper in section.entries %}
                   <li>
-                    {{ paper.author }}.
+                    {% include utilities/bold-author.html text=paper.author %}.
                     "<em>{{ paper.title }}</em>",
                     {{ paper.information }}
                   </li>
@@ -85,7 +85,7 @@ background_image: "/assets/images/art/bg5.webp"
     <ol class="ordered-list-number">
       {% for paper in site.data.journals.domestic %}
       <li>
-        {{ paper.author }}.
+        {% include utilities/bold-author.html text=paper.author %}.
         "<em>{{ paper.title }}</em>",
         {{ paper.information }}
       </li>

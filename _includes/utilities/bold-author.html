@@ -1,0 +1,17 @@
+{%- assign authors = include.text | split: "," -%}
+{%- for a in authors -%}
+  {%- assign a_trim = a | strip -%}
+  {%- assign a_base = a_trim 
+      | replace: "*", "" 
+      | replace: "+", "" 
+      | strip 
+  -%}
+
+  {%- if site.data.highlight.highlighted_authors contains a_base -%}
+    <strong style="font-weight: 800;">{{ a_trim }}</strong>
+  {%- else -%}
+    {{ a_trim }}
+  {%- endif -%}
+
+  {%- unless forloop.last -%}, {%- endunless -%}
+{%- endfor -%}
