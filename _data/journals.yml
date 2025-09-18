@@ -1,9 +1,17 @@
 international:
   - year_range: "2025"
     entries:
-      - author: "Yun-Il Choi*, Eun-Hye Hwang, Sanga Lee*"
+      - author: "Sanga Lee*, Dohyeong Kim, Minkyun Noh, Shinkyu Jeong, Jikang Kong, Youngjun Yoo"
+        title: "Propeller fault-detection method for electric-propulsion aircraft using motor signals and generative model-based semi-supervised learning"
+        information: "Engineering Applications of Artificial Intelligence, 2025 (accepted)"
+
+      - author: "Dongju Kim,Jong Pil Yun,Taehan Lee,Daewoong Jung,Hong-In Won*"
+        title: "AI-driven multivariate time series forecasting of transmembrane pressure in ultrafiltration: A stationarity-aware approach"
+        information: "Journal of Water Process Engineering, 77:108539, 2025"
+
+      - author: "Yun-Il Choi*, Eun-Hye Hwang, Sanga Lee"
         title: "Electrochemical Estimation of Flow Velocity Using CNT/rGO-Filled Polyurethane Nanocomposites"
-        information: "Polymers and Polymer Composites, 2025 (accepted)"
+        information: "Polymers and Polymer Composites, 2025 (online published)"
 
       - author: "Sang-Hyun Rhie, Eric Coatanéa, Sanga Lee, Wonjong Jung, Jeongsu Lee*"
         title: "Resolving forward and inverse problems of rarefied gas heat transfer in an infrared detector cryochamber using physics-informed neural networks"
