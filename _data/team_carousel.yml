@@ -163,6 +163,20 @@ researchers:
       한양대학교 기계설계공학 박사(2023)
     image: "/assets/images/member/researcher/증명사진_김동주.webp"
 
+  - name: "고윤영 연구원 (포스트닥터)"
+    designation: >
+      Yunyeong Goh
+
+      Ph.D in Electrical & Electronic Engineering
+
+      (yygoh@kitech.re.kr)
+    description: >
+      KITECH 포스트닥터 (2025 ~ 현재)
+
+      연세대학교 전기전자공학 박사(2025)
+    image: "/assets/images/member/researcher/증명사진_고윤영.webp"
+
+
   - name: "조현진 연구원 (연구별정)"
     designation: >
       Hyunjin Cho
