@@ -1,0 +1,46 @@
+{% if page.contact_form.enable %}
+<div class="wrapper light-wrapper">
+    <div class="container inner">
+        <div class="boxed">
+            <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                    <div class="image-block col-lg-6 p-0">
+                        {% include components/contact/gmap.html extra_class="map-full" %}
+                        <!--/.google-map -->
+                    </div>
+                    <!--/.image-block -->
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6 offset-lg-6">
+                                <div class="box d-flex">
+                                    <div class="align-self-center">
+                                        <h3>{{page.contact_form.title}}</h3>
+                                        <p>{{page.contact_form.sub_title}}</p>
+                                        <ul class="icon-list">
+                                            {% for lists in page.contact_form.lists %}
+
+                                            <li><i class="{{lists.icon}}"></i>{{lists.info_01}}</li>
+
+
+                                            {% endfor %}
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- /.box -->
+                            </div>
+                            <!--/column -->
+                        </div>
+                        <!--/.row -->
+                    </div>
+                    <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+            </div>
+            <!-- /.bg -->
+        </div>
+        <!-- /.boxed -->
+
+</div>
+        {% endif %}
