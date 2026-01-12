@@ -50,6 +50,8 @@ researchers:
 
        
     description: >
+      <span style="font-weight: 1000;">제조AI SEED연구단장</span>
+
       KITECH 연구책임자 (2019 ~ 현재)
 
       삼성전자 Staff Engineer (2018 ~ 2019)
@@ -109,6 +111,43 @@ researchers:
 
     image: "/assets/images/member/researcher/증명사진_강유업.webp"
 
+  - name: "최원일 선임연구원"
+    designation: >
+      Won Il Choi
+
+      Ph.D in Material Science and Engineering
+
+      (wi9455@kitech.re.kr)
+
+       
+    description: >
+      KITECH 연구책임자 (2025 ~ 현재)
+
+      KIST Postdoc. (2025)
+
+      서울대학교 재료공학 박사 (2025)
+
+
+    image: "/assets/images/member/researcher/증명사진_최원일.webp"
+
+  - name: "한영석 선임연구원"
+    designation: >
+      Young-Suk Han
+
+      Ph.D in Big Data Analytics
+
+      (youngsuk1@kitech.re.kr)
+
+       
+    description: >
+      KITECH 연구책임자 (2025 ~ 현재)
+
+      경희대학교 Postdoc. (2025)
+
+      경희대학교 빅데이터응용학 박사 (2025)
+
+
+    image: "/assets/images/member/researcher/증명사진_한영석.webp"
 
 
   - name: "윤준석 연구원"
@@ -189,6 +228,14 @@ researchers:
 
       중앙대학교 영상공학 석사 (2025)
     image: "/assets/images/member/researcher/증명사진_조현진.webp"
+
+
+staff:
+  - name: "선하은 행정별정"
+    designation: >
+      Sun Ha Eun
+       
+    image: "/assets/images/member/researcher/증명사진_선하은.webp"
 
 
 
@@ -415,14 +462,26 @@ students:
 
 interns: 
 
-  - name: "박선영 (현장실습생)"
-    image: "/assets/images/member/students/증명사진_박선영.webp"
+  - name: "김채민 (행정인턴)"
+    image: "/assets/images/member/students/증명사진_김채민.webp"
 
-  - name: "노원우 (현장실습생)"
-    image: "/assets/images/member/students/증명사진_노원우.webp"
+  - name: "김재준 (연구인턴)"
+    image: "/assets/images/member/students/증명사진_김재준.webp"
 
-  - name: "최진원 (현장실습생)"
-    image: "/assets/images/member/students/증명사진_최진원.webp"
+  - name: "진현준 (연구인턴)"
+    image: "/assets/images/member/students/증명사진_진현준.webp"
 
-  - name: "송주훈 (현장실습생)"
-    image: "/assets/images/member/students/증명사진_송주훈.webp"
+  - name: "차승민 (연구인턴)"
+    image: "/assets/images/member/students/증명사진_차승민.webp"
+
+  - name: "양현빈 (현장실습생)"
+    image: "/assets/images/member/students/증명사진_양현빈.webp"
+
+  - name: "민재영 (현장실습생)"
+    image: "/assets/images/member/students/증명사진_민재영.webp"
+
+  - name: "박상준 (현장실습생)"
+    image: "/assets/images/member/students/증명사진_박상준.webp"
+
+  - name: "임상우 (현장실습생)"
+    image: "/assets/images/member/students/증명사진_임상우.webp"

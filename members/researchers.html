@@ -10,6 +10,14 @@ teams_carousel_researcher:
   sub_title: |
     Researchers (MAIK)
 
+teams_carousel_staff:
+  enable: true
+  data_source: Staff
+  title: Our Research Group
+  sub_title: |
+    Staff at MAIK
+
+
 teams_table_researcher:
   enable: true
   title: Our Research Group
@@ -37,8 +45,16 @@ teams_list_researcher:
     title=page.teams_carousel_researcher.title 
     sub_title=page.teams_carousel_researcher.sub_title 
   %}
-
   {% endif %}
+    {% if page.teams_carousel_researcher.enable %}
+
+    {% include components/team/team-members.html 
+      data=site.data.team_carousel.staff  
+      title=page.teams_carousel_staff.title 
+      sub_title=page.teams_carousel_staff.sub_title 
+    %}
+  {% endif %}
+
 </div>
 
 <div class="wrapper gray-wrapper">
