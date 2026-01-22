@@ -6,7 +6,7 @@ GIT
     eventmachine (1.2.7)
 
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
@@ -108,4 +108,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.6.8
+  4.0.4

@@ -3,7 +3,7 @@ international:
     entries:
       - author: "Sanga Lee*, Dohyeong Kim, Minkyun Noh, Shinkyu Jeong, Jikang Kong, Youngjun Yoo"
         title: "Propeller fault-detection method for electric-propulsion aircraft using motor signals and generative model-based semi-supervised learning"
-        information: "Engineering Applications of Artificial Intelligence, 2025 (accepted)"
+        information: "Engineering Applications of Artificial Intelligence, 162(Part A):112301"
 
       - author: "Dongju Kim,Jong Pil Yun,Taehan Lee,Daewoong Jung,Hong-In Won*"
         title: "AI-driven multivariate time series forecasting of transmembrane pressure in ultrafiltration: A stationarity-aware approach"

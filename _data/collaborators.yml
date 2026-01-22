@@ -59,7 +59,7 @@ domestic_partners:
       - name: 이상준 교수
         link: "https://sites.google.com/view/miljbnu"
 
-  - institution: 청주대학교
+  - institution: 세종대학교
     contacts:
       - name: 손찬규 교수
 
@@ -111,6 +111,7 @@ domestic_partners:
         link: "https://ace.hanyang.ac.kr/"
       - name: 서경민 교수
       - name: 윤석민 교수
+      - name: 양선웅 교수
 
 international_partners:
   - institution: Georgia Institute of Technology
