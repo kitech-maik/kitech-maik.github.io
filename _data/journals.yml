@@ -1,6 +1,10 @@
 international:
-  - year_range: "2025"
+  - year_range: "2026-2025"
     entries:
+      - author: "Yu-Eop Kang, Dawoon Lee, Yoonpyo Hong, Sunwoong Yang, Kwanjung Yee*"
+        title: "Data-driven surrogate modeling framework for real-time prediction of airfoil lookup tables: application to proprotor optimization"
+        information: "Structural and Multidisciplinary Optimization, Vol 69 No.35, 2026."
+
       - author: "Sanga Lee*, Dohyeong Kim, Minkyun Noh, Shinkyu Jeong, Jikang Kong, Youngjun Yoo"
         title: "Propeller fault-detection method for electric-propulsion aircraft using motor signals and generative model-based semi-supervised learning"
         information: "Engineering Applications of Artificial Intelligence, 162(Part A):112301"
