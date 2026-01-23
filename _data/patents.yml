@@ -1,5 +1,5 @@
 domestic:
-  - year_range: "2025-2024"
+  - year_range: "2025-2023"
     entries:
       # - title: "테스트 타임 적응 장치 및 방법"
       #   date: "2025-12-04"
@@ -55,9 +55,6 @@ domestic:
         inventors: "원홍인 외"
         country: "대한민국"
 
-
-  - year_range: "2023-2022"
-    entries:
       - title: "데이터 증강을 이용하여 결함 검사를 위한 학습 방법 및 이를 수행하는 장치"
         date: "2023-03-17"
         number: "10-2512625"
@@ -106,6 +103,9 @@ domestic:
         inventors: "이상아 외"
         country: "대한민국"
 
+
+  - year_range: "2022-2020"
+    entries:
       - title: "인공지능을 이용한 품질예측 장치 및 그 방법"
         date: "2022-12-06"
         number: "10-2882278"
@@ -202,10 +202,6 @@ domestic:
         inventors: "원홍인 외"
         country: "대한민국"
 
-
-
-  - year_range: "2021-2020"
-    entries:
       - title: "머신러닝 기반 결함 분류 장치 및 방법"
         date: "2021-11-05"
         number: "10-2325347"
