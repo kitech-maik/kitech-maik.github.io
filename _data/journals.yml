@@ -1,6 +1,14 @@
 international:
   - year_range: "2026-2025"
     entries:
+      - author: "WooSang Shin+, Iljeok Kim+, Jonghyeon Lee, Seungchul Lee, , JongPil Yun*"
+        title: "High-Resolution neural attenuation field for industrial computed tomography"
+        information: "Expert Systems With Applications, Vol 306, 130535, 2026"
+
+      - author: "WooSang Shin, Jonghyeon Lee, Dong Yun Choi, Iljeok Kim, JongPil Yun*"
+        title: "Implicit dimension measurement for automated cross-sectional inspection of multi-lumen medical catheters"
+        information: "Journal of Industrial Information Integration, Vol 48, 100979, 2025"
+
       - author: "Yu-Eop Kang, Dawoon Lee, Yoonpyo Hong, Sunwoong Yang, Kwanjung Yee*"
         title: "Data-driven surrogate modeling framework for real-time prediction of airfoil lookup tables: application to proprotor optimization"
         information: "Structural and Multidisciplinary Optimization, Vol 69 No.35, 2026."
@@ -20,7 +28,6 @@ international:
       - author: "Sang-Hyun Rhie, Eric Coatanéa, Sanga Lee, Wonjong Jung, Jeongsu Lee*"
         title: "Resolving forward and inverse problems of rarefied gas heat transfer in an infrared detector cryochamber using physics-informed neural networks"
         information: "Applied Thermal Engineering, 277:127104, 2025"
-
 
   - year_range: "2024-2023"
     entries:
@@ -188,7 +195,6 @@ international:
         title: "End-to-end recognition of slab identification numbers using a deep convolutional neural network"
         information: "Knowledge-Based Systems, Vol.132, 1-10, 2017"
 
-
 domestic:
   - author: "황재훈, 하승엽, 윤준석, 김민수, 이상아, 윤종필, 원홍인*"
     title: "Two-Bounce LiDAR와 디지털 트윈을 활용한 사각지대 객체 탐지용 데이터 생성 프레임워크"
@@ -204,7 +210,7 @@ domestic:
 
   - author: "이예지, 신우상, 윤종필, 주문갑*"
     title: "준지도 학습 기반의 미세조직 이미지 분할"
-    information: "대한임베디드공학회논문지, Vol.19, No.6, 307-312, 2024"    
+    information: "대한임베디드공학회논문지, Vol.19, No.6, 307-312, 2024"
 
   - author: "김성현, 홍윤표, 이상아*"
     title: "어텐션 기반의 설명가능한 신경망을 사용한 충격파 예측"
