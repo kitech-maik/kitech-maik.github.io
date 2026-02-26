@@ -5,13 +5,13 @@ international:
         title: "High-Resolution neural attenuation field for industrial computed tomography"
         information: "Expert Systems With Applications, Vol 306, 130535, 2026"
 
-      - author: "WooSang Shin, Jonghyeon Lee, Dong Yun Choi, Iljeok Kim, JongPil Yun*"
-        title: "Implicit dimension measurement for automated cross-sectional inspection of multi-lumen medical catheters"
-        information: "Journal of Industrial Information Integration, Vol 48, 100979, 2025"
-
       - author: "Yu-Eop Kang, Dawoon Lee, Yoonpyo Hong, Sunwoong Yang, Kwanjung Yee*"
         title: "Data-driven surrogate modeling framework for real-time prediction of airfoil lookup tables: application to proprotor optimization"
         information: "Structural and Multidisciplinary Optimization, Vol 69 No.35, 2026."
+
+      - author: "WooSang Shin, Jonghyeon Lee, Dong Yun Choi, Iljeok Kim, JongPil Yun*"
+        title: "Implicit dimension measurement for automated cross-sectional inspection of multi-lumen medical catheters"
+        information: "Journal of Industrial Information Integration, Vol 48, 100979, 2025"
 
       - author: "Sanga Lee*, Dohyeong Kim, Minkyun Noh, Shinkyu Jeong, Jikang Kong, Youngjun Yoo"
         title: "Propeller fault-detection method for electric-propulsion aircraft using motor signals and generative model-based semi-supervised learning"
