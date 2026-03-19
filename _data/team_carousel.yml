@@ -496,6 +496,25 @@ students:
       
     image: "/assets/images/member/students/증명사진_이두현.webp"
 
+  - name: "이동현 연구원"
+    designation: >
+      Dong Hyun Lee
+
+      Master Student in Mechanical Engineering
+
+      (nill1063@kitech.re.kr)
+
+
+    description: >
+      학연협동과정 연수생
+      
+      한양대학교 기계공학과
+      
+      석사과정 (2026 ~ 현재)
+
+      
+    image: "/assets/images/member/students/증명사진_이동현.webp"
+
 ############################## Intern ##########################
 
 interns: 
@@ -503,11 +522,11 @@ interns:
   - name: "김채민 (행정인턴)"
     image: "/assets/images/member/students/증명사진_김채민.webp"
 
-  - name: "김재준 (연구인턴)"
-    image: "/assets/images/member/students/증명사진_김재준.webp"
+  # - name: "김재준 (연구인턴)"
+  #   image: "/assets/images/member/students/증명사진_김재준.webp"
 
-  - name: "진현준 (연구인턴)"
-    image: "/assets/images/member/students/증명사진_진현준.webp"
+  # - name: "진현준 (연구인턴)"
+  #   image: "/assets/images/member/students/증명사진_진현준.webp"
 
   - name: "차승민 (연구인턴)"
     image: "/assets/images/member/students/증명사진_차승민.webp"
