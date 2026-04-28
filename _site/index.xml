@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/index.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-19T14:52:58+09:00</updated><id>http://localhost:4000/index.xml</id><entry><title type="html">(이데일리) 제조업 경쟁력 핵심 AI 기술</title><link href="http://localhost:4000/posts/2025_edaily" rel="alternate" type="text/html" title="(이데일리) 제조업 경쟁력 핵심 AI 기술" /><published>2025-07-28T09:00:00+09:00</published><updated>2025-07-28T09:00:00+09:00</updated><id>http://localhost:4000/posts/edaily</id><content type="html" xml:base="http://localhost:4000/posts/2025_edaily"><![CDATA[<h1 id="윤종필-제조ai연구센터장-전문가와-함께-쓰는-스페셜-리포트-제조업-경쟁력-핵심-ai-기술-">(윤종필 제조AI연구센터장) [전문가와 함께 쓰는 스페셜 리포트] 제조업 경쟁력 핵심 AI 기술② <br /></h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/index.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-28T14:54:11+09:00</updated><id>http://localhost:4000/index.xml</id><entry><title type="html">(헬로디디) 피지컬 AI ‘기술함대’로 제조 난제 ‘거뜬’ 산·학·연 연합학습·이상탐지·디지털트윈 ‘3각 전략’</title><link href="http://localhost:4000/posts/2026_hellodd" rel="alternate" type="text/html" title="(헬로디디) 피지컬 AI ‘기술함대’로 제조 난제 ‘거뜬’ 산·학·연 연합학습·이상탐지·디지털트윈 ‘3각 전략’" /><published>2026-03-15T09:00:00+09:00</published><updated>2026-03-15T09:00:00+09:00</updated><id>http://localhost:4000/posts/hellodd</id><content type="html" xml:base="http://localhost:4000/posts/2026_hellodd"><![CDATA[<h1 id="윤종필-제조ai연구센터장-띵동포럼서-제언-">(윤종필 제조AI연구센터장) ‘띵동포럼’서 제언 <br /></h1>
+<p>연합학습, 데이터 원본 유출 없이 가중치만 공유 <br />
+이상 탐지·디지털 트윈 병행해 자율제조 고도화 <br />
+‘기술함대’ 모델로 제조 생태계 역량 결집 당부 <br /></p>
+
+<!-- 공정마다 조건 제각각…범용 모델 필요 <br>
+생산 효율성 높여 글로벌 경쟁력 강화 <br>
+기업 간 협력·인재 양성 체계 구축해야 <br> -->
+
+<p><a href="https://www.hellodd.com/news/articleView.html?idxno=111122">[헬로디디]</a></p>
+
+<!-- 
+Second Level Header With List
+-----------------------------
+- Markdown Example for List
+- Markdown Example for List
+
+Image Using Kramdown
+--------------------
+![Image Using Kramdown](/assets/images/art/b16.webp){:class="img-responsive"} -->
+
+<!-- # H1 Heading
+
+First level header
+==================
+
+Second level header
+-------------------
+
+# H1 header
+
+## H2 header
+
+### H3 header
+
+#### H4 header
+
+##### H5 header
+
+###### H6 header
+ -->]]></content><author><name>MAIK</name></author><summary type="html"><![CDATA[(윤종필 제조AI연구센터장) ‘띵동포럼’서 제언 연합학습, 데이터 원본 유출 없이 가중치만 공유 이상 탐지·디지털 트윈 병행해 자율제조 고도화 ‘기술함대’ 모델로 제조 생태계 역량 결집 당부]]></summary></entry><entry><title type="html">(이데일리) 제조업 경쟁력 핵심 AI 기술</title><link href="http://localhost:4000/posts/2025_edaily" rel="alternate" type="text/html" title="(이데일리) 제조업 경쟁력 핵심 AI 기술" /><published>2025-07-28T09:00:00+09:00</published><updated>2025-07-28T09:00:00+09:00</updated><id>http://localhost:4000/posts/edaily</id><content type="html" xml:base="http://localhost:4000/posts/2025_edaily"><![CDATA[<h1 id="윤종필-제조ai연구센터장-전문가와-함께-쓰는-스페셜-리포트-제조업-경쟁력-핵심-ai-기술-">(윤종필 제조AI연구센터장) [전문가와 함께 쓰는 스페셜 리포트] 제조업 경쟁력 핵심 AI 기술② <br /></h1>
 
 <!-- 공정마다 조건 제각각…범용 모델 필요 <br>
 생산 효율성 높여 글로벌 경쟁력 강화 <br>

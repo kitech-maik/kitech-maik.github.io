@@ -1,6 +1,12 @@
 domestic:
-  - year_range: "2025-2023"
+  - year_range: "2026-2023"
     entries:
+      - title: "딥러닝 기반 미세조직 분석 방법 및 장치"
+        date: "2026-03-30"
+        number: "10-2947142"
+        inventors: "윤종필 외"
+        country: "대한민국"
+
       # - title: "테스트 타임 적응 장치 및 방법"
       #   date: "2025-12-04"
       #   number: "10-0190676" # 출원번호 변환
@@ -13,6 +19,12 @@ domestic:
       #   inventors: "원홍인 외"
       #   country: "대한민국"
 
+      - title: "딥러닝 기반 객체 카운팅 장치 및 방법"
+        date: "2025-10-14"
+        number: "10-2872779"
+        inventors: "윤종필 외"
+        country: "대한민국"
+
       # - title: "라이다 결측 영역 복원 장치 및 그 방법"
       #   date: "2025-09-08"
       #   number: "10-0127453" # 출원번호 변환
@@ -24,6 +36,12 @@ domestic:
       #   number: "10-0109979" # 출원번호 변환
       #   inventors: "원홍인 외"
       #   country: "대한민국"
+
+      - title: "결함 검사 장치 및 결함 검사 방법"
+        date: "2025-07-17"
+        number: "10-2836980"
+        inventors: "윤종필 외"
+        country: "대한민국"
 
       # - title: "미세조직 이미지의 영상분할 장치 및 그 방법"
       #   date: "2024-12-04"
