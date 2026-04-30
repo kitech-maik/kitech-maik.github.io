@@ -53,6 +53,8 @@ main_menu:
       #       url: "/research/intl-journals"
       #     - text: "Domestic Journals"
       #       url: "/research/dome-journals"
+      - text: "Conferences"
+        url: "/research/conferences"
       - text: "Patents"
         url: "/research/patents"  
 

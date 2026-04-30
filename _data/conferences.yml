@@ -1,0 +1,6 @@
+international:
+  - year_range: "2024-2023"
+    entries:
+      - author: "Woosang Shin+, Jonghyeon Lee+, Taehan Lee, Sangmoon Lee, JongPil Yun*"
+        title: "Anomaly detection using score-based perturbation resilience"
+        information: "2023 IEEE/CVF International Conference on Computer Vision (ICCV), 2023"

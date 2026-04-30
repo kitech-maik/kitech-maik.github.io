@@ -1,0 +1,82 @@
+---
+layout: default
+title: "International Conferences(Selected)"
+background_image: "/assets/images/art/bg5.webp"
+---
+
+{% include layouts/nav/nav-1.html drop_search=true alignment_class="ms-auto" %}
+{% include layouts/header/page-title.html %}
+
+<!--Todo: CSS로 옮기기..-->
+<style>
+  .ordered-list-number li::marker {
+    font-size: 1.0rem; 
+    font-weight: bold; 
+  }
+
+  .ordered-list-number > li {
+    font-size: 0.8rem;
+    line-height: 1.8;
+    margin-bottom: 1em;
+  }
+</style>
+
+<div class="wrapper gray-wrapper">
+  <div class="container inner">
+    <h2 class="section-title mb-40 text-center">International Conferences(Selected)</h2>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="tabs-wrapper bg-white shadow">
+          <ul class="nav nav-tabs">
+            <!-- 1) All 탭 추가 -->
+            <li class="nav-item">
+              <a class="nav-link active" data-bs-toggle="tab" href="#int-tab-all">All</a>
+            </li>
+            <!-- 2) 기존 year_range 탭들 -->
+            {% for section in site.data.conferences.international %}
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#int-tab{{ forloop.index }}">
+                  {{ section.year_range }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+
+          <div class="tab-content">
+            <!-- 3) All(전체) 탭 콘텐츠: 모든 섹션의 entries 합쳐서 표시 -->
+            <div class="tab-pane show active" id="int-tab-all">
+              <ol class="ordered-list-number">
+                {% for section in site.data.conferences.international %}
+                  {% for paper in section.entries %}
+                  <li>
+                    {% include utilities/bold-author.html text=paper.author %}.
+                    "<em>{{ paper.title }}</em>",
+                    {{ paper.information }}
+                  </li>
+                  {% endfor %}
+                {% endfor %}
+              </ol>
+            </div>
+
+            <!-- 4) 각 year_range별 개별 탭 콘텐츠 -->
+            {% for section in site.data.conferences.international %}
+            <div class="tab-pane" id="int-tab{{ forloop.index }}">
+              <ol class="ordered-list-number">
+                {% for paper in section.entries %}
+                  <li>
+                    {% include utilities/bold-author.html text=paper.author %}.
+                    "<em>{{ paper.title }}</em>",
+                    {{ paper.information }}
+                  </li>
+                {% endfor %}
+              </ol>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include layouts/footer/footer-3.html %}
