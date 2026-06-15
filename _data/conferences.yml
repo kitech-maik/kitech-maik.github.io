@@ -1,4 +1,9 @@
 international:
+  - year_range: "2026"
+    entries:
+      - author: "Suhye Cho, Younghun Byeon, Sang Jun Park, Jun-Seok Yun, Ye jin Kim, Hong-In Won, Min Su Kim, Jong Pil Yun*"
+        title: "FALCON : Fine-grained Alignment for Counting Objects in Industry"
+        information: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026"
   - year_range: "2024-2023"
     entries:
       - author: "Woosang Shin+, Jonghyeon Lee+, Taehan Lee, Sangmoon Lee, JongPil Yun*"
