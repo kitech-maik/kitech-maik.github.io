@@ -149,6 +149,25 @@ researchers:
 
     image: "/assets/images/member/researcher/증명사진_한영석.webp"
 
+  - name: "신우상 선임연구원"
+    designation: >
+      Woosang Shin
+
+      Ph.D in Electronic and Electrical Engineering
+
+      (welldone@kitech.re.kr)
+       
+    description: >
+      KITECH 연구책임자 (2026 ~ 현재)
+
+      폴라리스쓰리디 책임연구원 (2025-2026)
+
+      KITECH Postdoc. (2025)
+
+      경북대학교 전자전기공학 박사 (2024)
+
+
+    image: "/assets/images/member/researcher/증명사진_신우상.webp"
 
   - name: "윤준석 연구원"
     designation: >
@@ -504,15 +523,6 @@ students:
 ############################## Intern ##########################
 
 interns: 
-
-  - name: "김채민 (행정인턴)"
-    image: "/assets/images/member/students/증명사진_김채민.webp"
-
-  # - name: "김재준 (연구인턴)"
-  #   image: "/assets/images/member/students/증명사진_김재준.webp"
-
-  # - name: "진현준 (연구인턴)"
-  #   image: "/assets/images/member/students/증명사진_진현준.webp"
 
   - name: "차승민 (연구인턴)"
     image: "/assets/images/member/students/증명사진_차승민.webp"
