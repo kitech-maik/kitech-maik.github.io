@@ -1,18 +1,17 @@
 ---
 date: 2026-07-21
-layout: portfolio/items/video-layout
+layout: portfolio/items/slider-layout
 title: "Unite Seoul 2026: A Unity Digital Twin-based Synthetic Data Pipeline for Manufacturing AI"
 contributor: "Hong-In Won, Ph.D."
 grouped_by: grid
 filters:
   - "2026"
   - "Conference"
-client: "Unite Seoul 2026"
 thumbnail: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
 big_image: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
-video_image: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
-video: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.mp4"
 link: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.mp4"
+slider_images:
+  - "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
 ---
 ## About the Activity
 
