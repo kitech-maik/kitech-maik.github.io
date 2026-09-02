@@ -5,13 +5,21 @@
         <figure class="mb-25" style="height: 400px; overflow: hidden;">
           <img src="{{ member.image }}" style="height: 100%; width: auto;" alt="" />
         </figure>
-        <h4 class="mb-15">{{ member.name }}</h4>
+        <h4 class="mb-15">
+          {% if member.profile_url %}
+          <a href="{{ member.profile_url | relative_url }}">{{ member.name }}</a>
+          {% else %}
+          {{ member.name }}
+          {% endif %}
+        </h4>
         <div class="meta">{{ member.designation | markdownify | newline_to_br }}</div>          
         <p>{{ member.description | markdownify | newline_to_br }}</p>
+        {% if member.profile_url %}
+        <p class="mb-0"><a href="{{ member.profile_url | relative_url }}">Researcher profile <i class="jam jam-arrow-right"></i></a></p>
+        {% endif %}
       </div>
     </div>
     {% endfor %}
   </div>
-
 
 
