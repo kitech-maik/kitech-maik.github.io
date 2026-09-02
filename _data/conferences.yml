@@ -1,6 +1,10 @@
 international:
   - year_range: "2026"
     entries:
+      - author: "Yechang Seo, Jaeho Lee, Hyeonmin Yu, Jong Pil Yun, Min Su Kim, Jinhoo Jang, Hong-In Won"
+        title: "Digital Twin-based Robust Viewpoint Sampling for Automated Robotic Inspection"
+        information: "2026 IEEE 9th International Conference on Industrial Cyber-Physical Systems (ICPS), 2026"
+
       - author: "Suhye Cho, Younghun Byeon, Sang Jun Park, Jun-Seok Yun, Ye jin Kim, Hong-In Won, Min Su Kim, Jong Pil Yun*"
         title: "FALCON : Fine-grained Alignment for Counting Objects in Industry"
         information: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026"

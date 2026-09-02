@@ -1,6 +1,10 @@
 international:
   - year_range: "2026-2025"
     entries:
+      - author: "Seung Yeop Ha, Jaehoon Hwang, Jun-Seok Yun, Jong Pil Yun, Jeong-Gil Baek, Hong-In Won*"
+        title: "Digital twin-based test-time adaptation for robust visual perception in manufacturing"
+        information: "Engineering Applications of Artificial Intelligence, 181:115415, 2026"
+
       - author: "WooSang Shin+, Iljeok Kim+, Jonghyeon Lee, Seungchul Lee, JongPil Yun*"
         title: "High-Resolution neural attenuation field for industrial computed tomography"
         information: "Expert Systems With Applications, Vol 306, 130535, 2026"
