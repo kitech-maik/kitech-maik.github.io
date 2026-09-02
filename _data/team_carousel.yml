@@ -221,19 +221,6 @@ researchers:
       한양대학교 기계설계공학 박사(2023)
     image: "/assets/images/member/researcher/증명사진_김동주.webp"
 
-  - name: "조현진 연구원 (연구별정)"
-    designation: >
-      Hyunjin Cho
-
-      Master of AI Imaging
-
-      (chohjin@kitech.re.kr)
-    description: >
-      KITECH 연구원 (2025 ~ 현재)
-
-      중앙대학교 영상공학 석사 (2025)
-    image: "/assets/images/member/researcher/증명사진_조현진.webp"
-
 
 
 
@@ -273,19 +260,6 @@ students:
       
       박사과정 (2023 ~ 현재)
     image: "/assets/images/member/students/증명사진_김지헌.webp"
-
-  # - name: "김도형 연구원"
-  #   designation: >
-  #     Dohyeong Kim
-
-  #     Master Student in Mechanical Engineering
-
-  #     (kdh97@kitech.re.kr)
-  #   description: >
-  #     경희대학교 기계공학부 
-      
-  #     석사과정 (2023 ~ 현재)
-  #   image: "/assets/images/member/students/증명사진_김도형.webp"
 
   - name: "하승엽 연구원"
     designation: >
@@ -339,23 +313,6 @@ students:
       박사과정
 
     image: "/assets/images/member/students/증명사진_손진영.webp"
-
-  - name: "이재영 연구원"
-    designation: >
-      Jae Young Lee
-
-      Master Student in Mechanical Engineering
-
-      (leejyoung0325@kitech.re.kr)
-    description: >
-      학연협동과정 연수생
-      
-      성균관대학교 기계공학과 
-      
-      석사과정 (2024 ~ 현재)
-
-      
-    image: "/assets/images/member/students/증명사진_이재영.webp"
 
   - name: "황재훈 연구원"
     designation: >
@@ -513,12 +470,46 @@ students:
     description: >
       학연협동과정 연수생
       
-      한양대학교 기계공학과
+      서강대학교 기계공학과
       
       석사과정 (2026 ~ 현재)
 
       
     image: "/assets/images/member/students/증명사진_이동현.webp"
+
+  - name: "배은성 연구원"
+    designation: >
+      Eun Sung Bae
+
+      Master Student in Electronic Engineering
+
+      (euco3123@kitech.re.kr)
+    description: >
+      학연협동과정 연수생
+      
+      서강대학교 전자공학과 
+      
+      석사과정 (2026 ~ 현재)
+
+      
+    image: "/assets/images/member/students/증명사진_배은성.webp"
+
+  # - name: "이재영 연구원"
+  #   designation: >
+  #     Jae Young Lee
+
+  #     Master Student in Mechanical Engineering
+
+  #     (leejyoung0325@kitech.re.kr)
+  #   description: >
+  #     학연협동과정 연수생
+      
+  #     성균관대학교 기계공학과 
+      
+  #     석사과정 (2024 ~ 현재)
+
+      
+  #   image: "/assets/images/member/students/증명사진_이재영.webp"
 
 ############################## Intern ##########################
 
