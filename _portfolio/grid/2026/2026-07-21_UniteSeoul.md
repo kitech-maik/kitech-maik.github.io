@@ -9,7 +9,7 @@ filters:
   - "Conference"
 thumbnail: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
 big_image: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
-link: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.mp4"
+link: "https://raw.githubusercontent.com/kitech-maik/kitech-maik.github.io/4c0aaad0fc9355413fc143cc352a93274b74f7ff/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.mp4"
 slider_images:
   - "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
 ---
@@ -19,4 +19,4 @@ At Unite Seoul 2026, Dr. Hong-In Won presented a Unity-based digital-twin pipeli
 
 The public presentation described two testbed-grounded scenarios and more than 100,000 synchronized multimodal frames with machine-readable annotations for AI development and validation. The video above is the KITECH Manufacturing AI Research Center introduction shown for the session.
 
-[Open the presentation video](/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.mp4)
+[Open the presentation video](https://raw.githubusercontent.com/kitech-maik/kitech-maik.github.io/4c0aaad0fc9355413fc143cc352a93274b74f7ff/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.mp4)
