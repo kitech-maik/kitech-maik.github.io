@@ -1,6 +1,10 @@
 international:
   - year_range: "2026-2025"
     entries:
+      - author: "Won-Woo No, Hyun-Jin Cho, Hong-In Won, Hyun-Chul Tae*"
+        title: "Reference-Based Microscopic Defect Detection in High Resolution Printed Media Using Learnable Frequency Decomposition"
+        information: "in IEEE Access, vol. 14, pp. 100496-100507, 2026"
+
       - author: "Giho Lee, Sewoong Park, Seungmin Choi, Sanga Lee, Jinseok Jeong, Donguk Lee*"
         title: "Classification and Diagnosis of Propeller Damages Using FFT-Based Motor Current Signature Analysis of DC-Link Current"
         information: "in IEEE Access, vol. 14, pp. 35126-35139, 2026"
