@@ -1,9 +1,13 @@
 international:
   - year_range: "2026-2025"
     entries:
-      - author: "Seung Yeop Ha, Jaehoon Hwang, Jun-Seok Yun, Jong Pil Yun, Jeong-Gil Baek, Hong-In Won*"
-        title: "Digital twin-based test-time adaptation for robust visual perception in manufacturing"
-        information: "Engineering Applications of Artificial Intelligence, 181:115415, 2026"
+      - author: "Giho Lee, Sewoong Park, Seungmin Choi, Sanga Lee, Jinseok Jeong, Donguk Lee*"
+        title: "Classification and Diagnosis of Propeller Damages Using FFT-Based Motor Current Signature Analysis of DC-Link Current"
+        information: "in IEEE Access, vol. 14, pp. 35126-35139, 2026"
+
+      - author: "Juha Park, Jiho Choi, Jong Pil Yun, Yong Chan Park, Han-Gyeol Yeom, Byung-Do Lee, Sang Jun Lee*"
+        title: "Weighted knowledge distillation for semi-supervised segmentation of maxillary sinus in panoramic X-ray images"
+        information: "Scientific Reports, 16, 26990, 2026"
 
       - author: "WooSang Shin+, Iljeok Kim+, Jonghyeon Lee, Seungchul Lee, JongPil Yun*"
         title: "High-Resolution neural attenuation field for industrial computed tomography"

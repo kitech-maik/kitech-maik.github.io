@@ -49,7 +49,7 @@
   workplace: SK하이닉스
 
 - name: 신우상
-  grad_year: 2025
+  grad_year: 2024
   position: 학생연구원, 박사후연구원
   workplace: (전) Polaris3D, (현) 한국생산기술연구원
 
@@ -57,6 +57,11 @@
   grad_year: 2025
   position: 학생연구원
   workplace: 한국전력 전력연구원
+
+- name: 조현진
+  grad_year: 2025
+  position: 연구별정
+  workplace: University of Birmingham 박사과정
 
 - name: 고윤영
   grad_year: 2026
