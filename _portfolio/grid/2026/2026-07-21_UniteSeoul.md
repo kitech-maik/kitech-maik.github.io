@@ -7,11 +7,11 @@ grouped_by: grid
 filters:
   - "2026"
   - "Conference"
-thumbnail: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
-big_image: "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
+thumbnail: "/assets/images/activities/2026/2026_UniteSeoul.webp"
+big_image: "/assets/images/activities/2026/2026_UniteSeoul.webp"
 link: "https://raw.githubusercontent.com/kitech-maik/kitech-maik.github.io/4c0aaad0fc9355413fc143cc352a93274b74f7ff/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.mp4"
 slider_images:
-  - "/assets/media/engagements/unite-seoul-2026-kitech-manufacturing-ai.jpg"
+  - "/assets/images/activities/2026/2026_UniteSeoul.webp"
 ---
 ## About the Activity
 

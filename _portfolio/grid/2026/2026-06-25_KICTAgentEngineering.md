@@ -7,11 +7,11 @@ grouped_by: grid
 filters:
   - "2026"
   - "Workshop"
-thumbnail: "/assets/images/art/bg6.webp"
-big_image: "/assets/images/art/bg6.webp"
+thumbnail: "/assets/images/activities/2026/2026_KICTAgentEngineering.webp"
+big_image: "/assets/images/activities/2026/2026_KICTAgentEngineering.webp"
 link: "/"
 slider_images:
-  - "/assets/images/art/bg6.webp"
+  - "/assets/images/activities/2026/2026_KICTAgentEngineering.webp"
 ---
 ## About the Activity
 

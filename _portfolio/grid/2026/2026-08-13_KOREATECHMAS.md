@@ -7,11 +7,11 @@ grouped_by: grid
 filters:
   - "2026"
   - "Lecture"
-thumbnail: "/assets/images/art/bg6.webp"
-big_image: "/assets/images/art/bg6.webp"
+thumbnail: "/assets/images/activities/2026/2026_KOREATECHMAS.webp"
+big_image: "/assets/images/activities/2026/2026_KOREATECHMAS.webp"
 link: "/"
 slider_images:
-  - "/assets/images/art/bg6.webp"
+  - "/assets/images/activities/2026/2026_KOREATECHMAS.webp"
 ---
 ## About the Activity
 
