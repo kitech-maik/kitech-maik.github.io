@@ -1,6 +1,10 @@
 international:
   - year_range: "2026-2025"
     entries:
+      - author: "Young-Joo Hyun, Sumin Lee, Jeonyoon Lee*, Sanga Lee, Youngjun Yoo*"
+        title: "Signal separation of CNT-based vibration data using TVF-EMD and BSS for Structural Health Monitoring"
+        information: "Measurement, 122948, 2026"
+
       - author: "Won-Woo No, Hyun-Jin Cho, Hong-In Won, Hyun-Chul Tae*"
         title: "Reference-Based Microscopic Defect Detection in High Resolution Printed Media Using Learnable Frequency Decomposition"
         information: "in IEEE Access, vol. 14, pp. 100496-100507, 2026"
