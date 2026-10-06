@@ -518,6 +518,12 @@ students:
 
 interns: 
 
+  - name: "손민기 (자체인턴)"
+    image: "/assets/images/member/students/증명사진_손민기.webp"
+
+  - name: "차민경 (행정인턴)"
+    image: "/assets/images/member/students/증명사진_차민경.webp"
+
   - name: "김강욱 (현장실습생)"
     image: "/assets/images/member/students/증명사진_김강욱.webp"
 
